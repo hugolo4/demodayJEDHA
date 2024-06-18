@@ -1,0 +1,1900 @@
+,Team,season,win_match,overall_pick,position
+0,Atlanta Hawks,1989,41.0,5.0,Center
+1,Atlanta Hawks,1989,41.0,41.0,Forward
+2,Atlanta Hawks,1989,41.0,59.0,Guard
+3,Atlanta Hawks,1989,41.0,77.0,Center
+4,Atlanta Hawks,1989,41.0,146.0,Center
+5,Atlanta Hawks,1990,43.0,19.0,Forward
+6,Atlanta Hawks,1990,43.0,32.0,Forward
+7,Atlanta Hawks,1990,43.0,32.0,Forward
+8,Atlanta Hawks,1990,43.0,65.0,Center
+9,Atlanta Hawks,1990,43.0,70.0,Guard
+10,Atlanta Hawks,1990,43.0,134.0,Center
+11,Atlanta Hawks,1991,38.0,21.0,Center
+12,Atlanta Hawks,1992,43.0,44.0,Guard
+13,Atlanta Hawks,1993,57.0,23.0,Guard
+14,Atlanta Hawks,1993,57.0,49.0,Guard
+15,Atlanta Hawks,1994,42.0,10.0,Guard
+16,Atlanta Hawks,1994,42.0,36.0,Forward
+17,Atlanta Hawks,1994,42.0,41.0,Guard
+18,Atlanta Hawks,1995,46.0,9.0,Forward-Guard
+19,Atlanta Hawks,1995,46.0,15.0,Center
+20,Atlanta Hawks,1995,46.0,30.0,Guard
+21,Atlanta Hawks,1996,56.0,10.0,Forward
+22,Atlanta Hawks,1996,56.0,38.0,Guard
+23,Atlanta Hawks,1997,50.0,15.0,Forward
+24,Atlanta Hawks,1997,50.0,40.0,Center
+25,Atlanta Hawks,1998,31.0,34.0,Guard
+26,Atlanta Hawks,1999,28.0,16.0,Forward-Center
+27,Atlanta Hawks,1999,28.0,42.0,Guard
+28,Atlanta Hawks,1999,28.0,57.0,Guard
+29,Atlanta Hawks,2000,25.0,28.0,Center
+30,Atlanta Hawks,2001,33.0,22.0,Guard
+31,Atlanta Hawks,2002,35.0,20.0,Forward
+32,Atlanta Hawks,2003,28.0,10.0,Guard
+33,Atlanta Hawks,2003,28.0,20.0,Forward-Guard
+34,Atlanta Hawks,2003,28.0,27.0,Forward
+35,Atlanta Hawks,2004,13.0,6.0,Forward-Guard
+36,Atlanta Hawks,2004,13.0,40.0,Center-Forward
+37,Atlanta Hawks,2005,26.0,3.0,Center-Forward
+38,Atlanta Hawks,2005,26.0,33.0,other
+39,Atlanta Hawks,2006,30.0,36.0,other
+40,Atlanta Hawks,2007,37.0,21.0,Center-Forward
+41,Atlanta Hawks,2007,37.0,37.0,Guard-Forward
+42,Atlanta Hawks,2008,47.0,6.0,Forward-Guard
+43,Atlanta Hawks,2008,47.0,17.0,Forward
+44,Atlanta Hawks,2008,47.0,34.0,Guard
+45,Atlanta Hawks,2008,47.0,37.0,Guard
+46,Atlanta Hawks,2009,53.0,2.0,Forward
+47,Atlanta Hawks,2010,44.0,33.0,Forward
+48,Atlanta Hawks,2011,40.0,3.0,Center-Forward
+49,Atlanta Hawks,2011,40.0,11.0,Guard
+50,Atlanta Hawks,2013,38.0,19.0,Guard
+51,Atlanta Hawks,2014,60.0,24.0,Forward
+52,Atlanta Hawks,2014,60.0,53.0,Forward-Guard
+53,Atlanta Hawks,2015,48.0,48.0,Forward-Center
+54,Atlanta Hawks,2016,43.0,23.0,Guard
+55,Atlanta Hawks,2016,43.0,43.0,Forward
+56,Atlanta Hawks,2017,24.0,17.0,Guard
+57,Atlanta Hawks,2017,24.0,18.0,Guard
+58,Atlanta Hawks,2017,24.0,47.0,Guard
+59,Atlanta Hawks,2017,24.0,50.0,Forward
+60,Atlanta Hawks,2018,29.0,61.0,Nothing
+61,Atlanta Hawks,2019,20.0,15.0,Forward-Guard
+62,Atlanta Hawks,2020,41.0,21.0,Guard-Forward
+63,Atlanta Hawks,2020,41.0,54.0,Guard
+64,Atlanta Hawks,2021,43.0,19.0,Forward-Center
+65,Atlanta Hawks,2021,43.0,41.0,Guard
+66,Atlanta Hawks,2022,41.0,3.0,Forward-Guard
+67,Atlanta Hawks,2022,41.0,30.0,Forward
+68,Atlanta Hawks,2022,41.0,34.0,Guard
+69,Atlanta Hawks,2023,,8.0,Center-Forward
+70,Atlanta Hawks,2023,,10.0,Forward-Guard
+71,Atlanta Hawks,2023,,35.0,Guard
+72,Atlanta Hawks,2024,,6.0,Forward-Center
+73,Atlanta Hawks,2024,,50.0,Guard
+74,Atlanta Hawks,2025,,20.0,Forward
+75,Atlanta Hawks,2025,,48.0,Guard
+76,Atlanta Hawks,2026,,16.0,Forward
+77,Atlanta Hawks,2026,,44.0,Guard
+78,Boston Celtics,1989,52.0,20.0,Guard
+79,Boston Celtics,1989,52.0,139.0,Guard
+80,Boston Celtics,1990,56.0,61.0,Nothing
+81,Boston Celtics,1991,51.0,22.0,Guard
+82,Boston Celtics,1991,51.0,45.0,Forward-Center
+83,Boston Celtics,1992,48.0,24.0,Guard
+84,Boston Celtics,1992,48.0,74.0,Forward
+85,Boston Celtics,1993,32.0,13.0,Forward
+86,Boston Celtics,1993,32.0,13.0,Guard
+87,Boston Celtics,1993,32.0,40.0,Center
+88,Boston Celtics,1994,35.0,19.0,Guard
+89,Boston Celtics,1994,35.0,19.0,Guard
+90,Boston Celtics,1995,33.0,24.0,Forward
+91,Boston Celtics,1996,15.0,21.0,Guard
+92,Boston Celtics,1996,15.0,47.0,Center
+93,Boston Celtics,1997,36.0,19.0,Forward-Center
+94,Boston Celtics,1998,19.0,9.0,Center
+95,Boston Celtics,1999,35.0,14.0,Guard-Forward
+96,Boston Celtics,1999,35.0,33.0,Forward
+97,Boston Celtics,2000,36.0,6.0,Forward
+98,Boston Celtics,2000,36.0,38.0,Center
+99,Boston Celtics,2001,49.0,3.0,Guard
+100,Boston Celtics,2001,49.0,6.0,Guard-Forward
+101,Boston Celtics,2002,44.0,10.0,Forward
+102,Boston Celtics,2003,36.0,61.0,Nothing
+103,Boston Celtics,2004,45.0,11.0,Forward
+104,Boston Celtics,2005,33.0,10.0,Guard-Forward
+105,Boston Celtics,2005,33.0,21.0,Guard
+106,Boston Celtics,2006,24.0,49.0,Forward
+107,Boston Celtics,2007,66.0,16.0,Guard
+108,Boston Celtics,2007,66.0,20.0,Guard-Forward
+109,Boston Celtics,2008,62.0,15.0,Center
+110,Boston Celtics,2008,62.0,24.0,Guard
+111,Boston Celtics,2008,62.0,25.0,Guard-Forward
+112,Boston Celtics,2008,62.0,40.0,Forward
+113,Boston Celtics,2009,50.0,18.0,Guard-Forward
+114,Boston Celtics,2009,50.0,50.0,Forward
+115,Boston Celtics,2009,50.0,53.0,Guard
+116,Boston Celtics,2010,56.0,7.0,Guard
+117,Boston Celtics,2011,39.0,5.0,Forward
+118,Boston Celtics,2011,39.0,32.0,Guard
+119,Boston Celtics,2012,,30.0,Guard
+120,Boston Celtics,2012,,60.0,Center
+121,Boston Celtics,2013,25.0,58.0,Guard
+122,Boston Celtics,2014,40.0,19.0,Guard
+123,Boston Celtics,2014,40.0,52.0,Forward
+124,Boston Celtics,2015,48.0,25.0,Guard
+125,Boston Celtics,2015,48.0,55.0,Guard
+126,Boston Celtics,2016,53.0,21.0,Center-Forward
+127,Boston Celtics,2016,53.0,22.0,Center
+128,Boston Celtics,2016,53.0,51.0,Forward
+129,Boston Celtics,2017,55.0,61.0,Nothing
+130,Boston Celtics,2018,49.0,61.0,Nothing
+131,Boston Celtics,2019,48.0,16.0,Guard
+132,Boston Celtics,2019,48.0,28.0,Guard
+133,Boston Celtics,2019,48.0,33.0,Center-Forward
+134,Boston Celtics,2019,48.0,45.0,Guard-Forward
+135,Boston Celtics,2020,36.0,3.0,Guard-Forward
+136,Boston Celtics,2020,36.0,16.0,Forward
+137,Boston Celtics,2020,36.0,23.0,Center
+138,Boston Celtics,2020,36.0,45.0,Guard
+139,Boston Celtics,2020,36.0,51.0,Forward
+140,Boston Celtics,2020,36.0,58.0,Forward
+141,Boston Celtics,2021,51.0,3.0,Forward-Guard
+142,Boston Celtics,2021,51.0,37.0,Forward
+143,Boston Celtics,2021,51.0,53.0,Guard
+144,Boston Celtics,2021,51.0,56.0,Guard
+145,Boston Celtics,2022,57.0,27.0,Center-Forward
+146,Boston Celtics,2023,,14.0,Guard-Forward
+147,Boston Celtics,2023,,20.0,Guard-Forward
+148,Boston Celtics,2023,,22.0,Forward
+149,Boston Celtics,2023,,51.0,Guard
+150,Boston Celtics,2024,,14.0,Guard-Forward
+151,Boston Celtics,2024,,26.0,Guard
+152,Boston Celtics,2024,,30.0,Guard
+153,Boston Celtics,2026,,53.0,Guard
+154,Brooklyn Nets,2013,44.0,61.0,Nothing
+155,Brooklyn Nets,2014,38.0,61.0,Nothing
+156,Brooklyn Nets,2015,21.0,61.0,Nothing
+157,Brooklyn Nets,2016,20.0,61.0,Nothing
+158,Brooklyn Nets,2017,28.0,22.0,Forward-Center
+159,Brooklyn Nets,2018,42.0,61.0,Nothing
+160,Brooklyn Nets,2019,35.0,29.0,Forward
+161,Brooklyn Nets,2019,35.0,41.0,Guard
+162,Brooklyn Nets,2020,48.0,42.0,Guard
+163,Brooklyn Nets,2021,44.0,22.0,Center
+164,Brooklyn Nets,2021,44.0,27.0,Forward
+165,Brooklyn Nets,2022,45.0,29.0,Guard-Forward
+166,Brooklyn Nets,2022,45.0,40.0,Forward
+167,Brooklyn Nets,2022,45.0,45.0,Guard
+168,Brooklyn Nets,2023,,17.0,Guard
+169,Brooklyn Nets,2023,,31.0,Center
+170,Brooklyn Nets,2024,,19.0,Forward
+171,Brooklyn Nets,2025,,27.0,Guard
+172,Brooklyn Nets,2025,,59.0,Forward
+173,Charlotte Bobcats,2004,18.0,61.0,Nothing
+174,Charlotte Bobcats,2005,26.0,61.0,Nothing
+175,Charlotte Bobcats,2006,33.0,61.0,Nothing
+176,Charlotte Bobcats,2007,32.0,61.0,Nothing
+177,Charlotte Bobcats,2008,35.0,2.0,Center
+178,Charlotte Bobcats,2008,35.0,45.0,Guard-Forward
+179,Charlotte Bobcats,2009,44.0,5.0,Guard
+180,Charlotte Bobcats,2009,44.0,13.0,Center-Forward
+181,Charlotte Bobcats,2010,34.0,3.0,Forward
+182,Charlotte Bobcats,2011,7.0,22.0,Forward
+183,Charlotte Bobcats,2012,,9.0,Guard
+184,Charlotte Bobcats,2012,,20.0,Center
+185,Charlotte Bobcats,2012,,38.0,Guard
+186,Charlotte Bobcats,2013,43.0,12.0,Guard
+187,Charlotte Bobcats,2013,43.0,12.0,Guard
+188,Charlotte Bobcats,2013,43.0,40.0,Forward
+189,Charlotte Bobcats,2013,43.0,54.0,Guard-Forward
+190,Charlotte Bobcats,2015,,9.0,Guard
+191,Charlotte Bobcats,2015,,19.0,Forward
+192,Charlotte Bobcats,2015,,39.0,Forward
+193,Charlotte Bobcats,2016,,2.0,Forward
+194,Charlotte Bobcats,2017,,4.0,Forward-Center
+195,Charlotte Hornets,1989,19.0,61.0,Nothing
+196,Charlotte Hornets,1990,26.0,61.0,Nothing
+197,Charlotte Hornets,1991,31.0,61.0,Nothing
+198,Charlotte Hornets,1992,44.0,8.0,Guard
+199,Charlotte Hornets,1993,41.0,5.0,Forward
+200,Charlotte Hornets,1993,41.0,29.0,Guard
+201,Charlotte Hornets,1994,50.0,5.0,Guard
+202,Charlotte Hornets,1994,50.0,39.0,Forward
+203,Charlotte Hornets,1995,41.0,1.0,Forward
+204,Charlotte Hornets,1995,41.0,1.0,Guard
+205,Charlotte Hornets,1995,41.0,28.0,Forward
+206,Charlotte Hornets,1996,54.0,2.0,Center
+207,Charlotte Hornets,1996,54.0,35.0,Guard
+208,Charlotte Hornets,1997,51.0,17.0,Guard
+209,Charlotte Hornets,1997,51.0,20.0,Guard
+210,Charlotte Hornets,1998,26.0,38.0,Forward
+211,Charlotte Hornets,1999,49.0,22.0,Center
+212,Charlotte Hornets,2000,46.0,13.0,Forward-Guard
+213,Charlotte Hornets,2000,46.0,16.0,Guard
+214,Charlotte Hornets,2000,46.0,44.0,Forward
+215,Charlotte Hornets,2001,44.0,61.0,Nothing
+216,Charlotte Hornets,2002,,21.0,Guard
+217,Charlotte Hornets,2003,,3.0,Guard
+218,Charlotte Hornets,2003,,43.0,Forward
+219,Charlotte Hornets,2005,,16.0,Forward
+220,Charlotte Hornets,2014,33.0,61.0,Nothing
+221,Charlotte Hornets,2015,48.0,61.0,Nothing
+222,Charlotte Hornets,2016,36.0,61.0,Nothing
+223,Charlotte Hornets,2017,36.0,61.0,Nothing
+224,Charlotte Hornets,2018,39.0,61.0,Nothing
+225,Charlotte Hornets,2019,23.0,9.0,Forward-Center
+226,Charlotte Hornets,2020,33.0,22.0,Guard
+227,Charlotte Hornets,2021,43.0,11.0,Guard
+228,Charlotte Hornets,2021,43.0,31.0,Guard
+229,Charlotte Hornets,2022,27.0,11.0,Guard
+230,Charlotte Hornets,2022,27.0,55.0,Forward
+231,Charlotte Hornets,2023,,36.0,Forward
+232,Charlotte Hornets,2023,,52.0,Forward-Center
+233,Charlotte Hornets,2024,,3.0,Guard
+234,Charlotte Hornets,2024,,32.0,Center
+235,Charlotte Hornets,2024,,56.0,Guard
+236,Charlotte Hornets,2025,,56.0,Guard
+237,Charlotte Hornets,2026,,13.0,Center
+238,Charlotte Hornets,2026,,15.0,Center
+239,Charlotte Hornets,2026,,45.0,Forward
+240,Chicago Bulls,1989,55.0,28.0,Forward
+241,Chicago Bulls,1989,55.0,46.0,Forward
+242,Chicago Bulls,1989,55.0,69.0,Center-Forward
+243,Chicago Bulls,1990,61.0,9.0,Forward
+244,Chicago Bulls,1990,61.0,28.0,Forward
+245,Chicago Bulls,1990,61.0,52.0,Guard
+246,Chicago Bulls,1990,61.0,120.0,Guard
+247,Chicago Bulls,1991,67.0,28.0,Forward
+248,Chicago Bulls,1991,67.0,33.0,Guard
+249,Chicago Bulls,1991,67.0,79.0,Forward
+250,Chicago Bulls,1992,57.0,61.0,Nothing
+251,Chicago Bulls,1993,55.0,6.0,Forward-Center
+252,Chicago Bulls,1993,55.0,18.0,Guard
+253,Chicago Bulls,1993,55.0,20.0,Forward
+254,Chicago Bulls,1994,47.0,29.0,Forward
+255,Chicago Bulls,1995,72.0,26.0,Forward
+256,Chicago Bulls,1996,69.0,27.0,Forward
+257,Chicago Bulls,1996,69.0,52.0,Forward
+258,Chicago Bulls,1997,62.0,25.0,Forward-Center
+259,Chicago Bulls,1998,13.0,21.0,Forward
+260,Chicago Bulls,1999,17.0,20.0,Forward
+261,Chicago Bulls,1999,17.0,31.0,Center-Forward
+262,Chicago Bulls,2000,15.0,29.0,Center
+263,Chicago Bulls,2001,21.0,28.0,Forward
+264,Chicago Bulls,2002,30.0,28.0,Guard
+265,Chicago Bulls,2002,30.0,58.0,Forward
+266,Chicago Bulls,2003,23.0,16.0,Forward
+267,Chicago Bulls,2003,23.0,49.0,Forward
+268,Chicago Bulls,2004,47.0,4.0,other
+269,Chicago Bulls,2004,47.0,24.0,Center
+270,Chicago Bulls,2004,47.0,33.0,Center
+271,Chicago Bulls,2004,47.0,34.0,Guard
+272,Chicago Bulls,2005,41.0,4.0,Center
+273,Chicago Bulls,2005,41.0,44.0,Forward
+274,Chicago Bulls,2006,49.0,2.0,Guard
+275,Chicago Bulls,2006,49.0,43.0,Forward
+276,Chicago Bulls,2007,33.0,7.0,Guard
+277,Chicago Bulls,2007,33.0,45.0,Center-Forward
+278,Chicago Bulls,2008,41.0,3.0,Guard
+279,Chicago Bulls,2008,41.0,38.0,Guard
+280,Chicago Bulls,2009,41.0,61.0,Nothing
+281,Chicago Bulls,2010,62.0,2.0,Center-Forward
+282,Chicago Bulls,2010,62.0,16.0,Forward
+283,Chicago Bulls,2011,50.0,9.0,Forward-Center
+284,Chicago Bulls,2011,50.0,49.0,Center
+285,Chicago Bulls,2011,50.0,51.0,Guard
+286,Chicago Bulls,2012,,39.0,Guard-Forward
+287,Chicago Bulls,2013,48.0,16.0,Forward
+288,Chicago Bulls,2013,48.0,26.0,Forward
+289,Chicago Bulls,2014,50.0,61.0,Nothing
+290,Chicago Bulls,2015,42.0,28.0,Guard
+291,Chicago Bulls,2015,42.0,30.0,Forward
+292,Chicago Bulls,2016,41.0,29.0,Guard
+293,Chicago Bulls,2017,27.0,20.0,Guard
+294,Chicago Bulls,2017,27.0,49.0,Forward
+295,Chicago Bulls,2018,22.0,61.0,Nothing
+296,Chicago Bulls,2019,22.0,22.0,Forward
+297,Chicago Bulls,2020,31.0,14.0,Guard
+298,Chicago Bulls,2020,31.0,48.0,Forward
+299,Chicago Bulls,2021,46.0,16.0,Center
+300,Chicago Bulls,2021,46.0,38.0,Forward
+301,Chicago Bulls,2022,40.0,7.0,Center-Forward
+302,Chicago Bulls,2022,40.0,22.0,Forward-Guard
+303,Chicago Bulls,2023,,7.0,Guard
+304,Chicago Bulls,2023,,38.0,Forward-Center
+305,Chicago Bulls,2024,,4.0,Forward
+306,Chicago Bulls,2024,,44.0,Center
+307,Chicago Bulls,2025,,38.0,Guard
+308,Chicago Bulls,2026,,18.0,Forward
+309,Cleveland Cavaliers,1989,42.0,9.0,Forward
+310,Cleveland Cavaliers,1989,42.0,45.0,Center
+311,Cleveland Cavaliers,1989,42.0,79.0,Guard-Forward
+312,Cleveland Cavaliers,1989,42.0,79.0,Forward
+313,Cleveland Cavaliers,1990,33.0,1.0,Center
+314,Cleveland Cavaliers,1990,33.0,8.0,Guard
+315,Cleveland Cavaliers,1990,33.0,29.0,Forward
+316,Cleveland Cavaliers,1990,33.0,50.0,Guard
+317,Cleveland Cavaliers,1990,33.0,96.0,Forward
+318,Cleveland Cavaliers,1991,57.0,7.0,Guard
+319,Cleveland Cavaliers,1991,57.0,41.0,Forward
+320,Cleveland Cavaliers,1991,57.0,52.0,Forward
+321,Cleveland Cavaliers,1992,54.0,22.0,Forward
+322,Cleveland Cavaliers,1992,54.0,64.0,Guard
+323,Cleveland Cavaliers,1993,47.0,25.0,Forward
+324,Cleveland Cavaliers,1994,43.0,52.0,Forward
+325,Cleveland Cavaliers,1995,47.0,11.0,Guard
+326,Cleveland Cavaliers,1995,47.0,39.0,Guard
+327,Cleveland Cavaliers,1996,42.0,61.0,Nothing
+328,Cleveland Cavaliers,1997,47.0,22.0,Forward
+329,Cleveland Cavaliers,1998,22.0,61.0,Nothing
+330,Cleveland Cavaliers,1999,32.0,17.0,Guard
+331,Cleveland Cavaliers,1999,32.0,39.0,Forward
+332,Cleveland Cavaliers,2000,30.0,12.0,Center-Forward
+333,Cleveland Cavaliers,2000,30.0,20.0,Center
+334,Cleveland Cavaliers,2000,30.0,56.0,Guard
+335,Cleveland Cavaliers,2001,29.0,13.0,Guard
+336,Cleveland Cavaliers,2001,29.0,44.0,Forward
+337,Cleveland Cavaliers,2001,29.0,44.0,Forward
+338,Cleveland Cavaliers,2002,17.0,48.0,Forward
+339,Cleveland Cavaliers,2003,35.0,8.0,Guard
+340,Cleveland Cavaliers,2003,35.0,11.0,other
+341,Cleveland Cavaliers,2003,35.0,39.0,Center
+342,Cleveland Cavaliers,2004,42.0,8.0,Guard
+343,Cleveland Cavaliers,2005,50.0,20.0,Center
+344,Cleveland Cavaliers,2005,50.0,35.0,Guard
+345,Cleveland Cavaliers,2006,50.0,6.0,Guard
+346,Cleveland Cavaliers,2006,50.0,34.0,Forward
+347,Cleveland Cavaliers,2007,45.0,1.0,Forward
+348,Cleveland Cavaliers,2007,45.0,31.0,Forward
+349,Cleveland Cavaliers,2008,66.0,10.0,Forward-Guard
+350,Cleveland Cavaliers,2009,61.0,61.0,Nothing
+351,Cleveland Cavaliers,2010,19.0,25.0,Guard
+352,Cleveland Cavaliers,2011,21.0,61.0,Nothing
+353,Cleveland Cavaliers,2013,33.0,30.0,Forward
+354,Cleveland Cavaliers,2013,33.0,46.0,Guard
+355,Cleveland Cavaliers,2014,53.0,61.0,Nothing
+356,Cleveland Cavaliers,2015,57.0,1.0,Guard
+357,Cleveland Cavaliers,2015,57.0,4.0,Center-Forward
+358,Cleveland Cavaliers,2015,57.0,32.0,Forward
+359,Cleveland Cavaliers,2016,51.0,4.0,Guard
+360,Cleveland Cavaliers,2016,51.0,24.0,Guard
+361,Cleveland Cavaliers,2016,51.0,33.0,Center
+362,Cleveland Cavaliers,2016,51.0,34.0,Forward
+363,Cleveland Cavaliers,2017,50.0,1.0,Forward
+364,Cleveland Cavaliers,2017,50.0,19.0,Guard-Forward
+365,Cleveland Cavaliers,2017,50.0,31.0,Guard-Forward
+366,Cleveland Cavaliers,2017,50.0,33.0,Guard-Forward
+367,Cleveland Cavaliers,2018,19.0,61.0,Nothing
+368,Cleveland Cavaliers,2019,19.0,24.0,Guard
+369,Cleveland Cavaliers,2020,22.0,61.0,Nothing
+370,Cleveland Cavaliers,2021,44.0,61.0,Nothing
+371,Cleveland Cavaliers,2022,51.0,61.0,Nothing
+372,Cleveland Cavaliers,2023,,5.0,Guard
+373,Cleveland Cavaliers,2023,,26.0,Guard-Forward
+374,Cleveland Cavaliers,2024,,5.0,Forward-Guard
+375,Cleveland Cavaliers,2025,,3.0,Center
+376,Cleveland Cavaliers,2026,,14.0,Guard
+377,Cleveland Cavaliers,2026,,49.0,Forward
+378,Dallas Mavericks,1989,47.0,8.0,Forward
+379,Dallas Mavericks,1989,47.0,16.0,Center
+380,Dallas Mavericks,1989,47.0,17.0,Center
+381,Dallas Mavericks,1989,47.0,40.0,Center
+382,Dallas Mavericks,1989,47.0,63.0,Guard
+383,Dallas Mavericks,1990,28.0,7.0,Forward
+384,Dallas Mavericks,1990,28.0,25.0,Guard
+385,Dallas Mavericks,1990,28.0,35.0,Guard
+386,Dallas Mavericks,1990,28.0,85.0,Guard
+387,Dallas Mavericks,1990,28.0,131.0,Center-Forward
+388,Dallas Mavericks,1991,22.0,20.0,Forward
+389,Dallas Mavericks,1991,22.0,26.0,Guard
+390,Dallas Mavericks,1991,22.0,89.0,Guard
+391,Dallas Mavericks,1992,11.0,46.0,Guard
+392,Dallas Mavericks,1993,13.0,8.0,Forward
+393,Dallas Mavericks,1993,13.0,35.0,Forward
+394,Dallas Mavericks,1994,36.0,61.0,Nothing
+395,Dallas Mavericks,1995,26.0,6.0,Forward
+396,Dallas Mavericks,1995,26.0,33.0,Forward
+397,Dallas Mavericks,1995,26.0,35.0,Guard
+398,Dallas Mavericks,1996,24.0,4.0,Forward-Guard
+399,Dallas Mavericks,1997,20.0,4.0,Forward
+400,Dallas Mavericks,1997,20.0,28.0,Guard
+401,Dallas Mavericks,1997,20.0,33.0,Center
+402,Dallas Mavericks,1998,19.0,2.0,Guard
+403,Dallas Mavericks,1998,19.0,19.0,Guard
+404,Dallas Mavericks,1999,40.0,12.0,Forward-Center
+405,Dallas Mavericks,2000,53.0,9.0,Forward
+406,Dallas Mavericks,2001,57.0,15.0,Center
+407,Dallas Mavericks,2002,60.0,6.0,Forward-Center
+408,Dallas Mavericks,2002,60.0,30.0,Forward
+409,Dallas Mavericks,2002,60.0,35.0,Center
+410,Dallas Mavericks,2002,60.0,53.0,Guard
+411,Dallas Mavericks,2003,52.0,36.0,Center
+412,Dallas Mavericks,2003,52.0,40.0,Guard
+413,Dallas Mavericks,2004,58.0,12.0,Center
+414,Dallas Mavericks,2004,58.0,31.0,Forward
+415,Dallas Mavericks,2005,60.0,61.0,Nothing
+416,Dallas Mavericks,2006,67.0,61.0,Nothing
+417,Dallas Mavericks,2007,51.0,29.0,Forward-Guard
+418,Dallas Mavericks,2008,50.0,50.0,Guard
+419,Dallas Mavericks,2009,55.0,61.0,Nothing
+420,Dallas Mavericks,2010,57.0,28.0,Forward-Guard
+421,Dallas Mavericks,2011,36.0,34.0,Forward
+422,Dallas Mavericks,2013,49.0,24.0,Center
+423,Dallas Mavericks,2014,50.0,50.0,Center
+424,Dallas Mavericks,2015,42.0,26.0,Guard-Forward
+425,Dallas Mavericks,2016,33.0,55.0,Guard
+426,Dallas Mavericks,2017,24.0,13.0,Forward-Center
+427,Dallas Mavericks,2017,24.0,44.0,Forward-Center
+428,Dallas Mavericks,2018,33.0,61.0,Nothing
+429,Dallas Mavericks,2019,43.0,21.0,Forward-Guard
+430,Dallas Mavericks,2020,42.0,61.0,Nothing
+431,Dallas Mavericks,2021,52.0,9.0,Guard
+432,Dallas Mavericks,2022,38.0,5.0,Guard
+433,Dallas Mavericks,2022,38.0,33.0,Guard
+434,Dallas Mavericks,2022,38.0,54.0,Guard-Forward
+435,Dallas Mavericks,2023,,37.0,Forward-Guard
+436,Dallas Mavericks,2024,,18.0,Guard
+437,Dallas Mavericks,2024,,31.0,Guard
+438,Dallas Mavericks,2026,,26.0,Guard
+439,Denver Nuggets,1989,43.0,15.0,Forward
+440,Denver Nuggets,1989,43.0,43.0,Guard
+441,Denver Nuggets,1989,43.0,89.0,Forward
+442,Denver Nuggets,1990,20.0,16.0,Guard
+443,Denver Nuggets,1990,20.0,18.0,Forward
+444,Denver Nuggets,1990,20.0,41.0,Forward
+445,Denver Nuggets,1990,20.0,133.0,Forward
+446,Denver Nuggets,1991,24.0,31.0,Forward
+447,Denver Nuggets,1991,24.0,100.0,Forward
+448,Denver Nuggets,1992,36.0,47.0,Guard
+449,Denver Nuggets,1993,42.0,15.0,Guard
+450,Denver Nuggets,1994,41.0,42.0,Forward
+451,Denver Nuggets,1995,35.0,4.0,Center
+452,Denver Nuggets,1995,35.0,8.0,Guard
+453,Denver Nuggets,1996,21.0,5.0,Forward
+454,Denver Nuggets,1996,21.0,13.0,Guard
+455,Denver Nuggets,1996,21.0,46.0,Center
+456,Denver Nuggets,1997,11.0,61.0,Nothing
+457,Denver Nuggets,1998,14.0,13.0,Guard-Forward
+458,Denver Nuggets,1999,35.0,15.0,Guard
+459,Denver Nuggets,2000,40.0,23.0,Center
+460,Denver Nuggets,2000,40.0,37.0,Guard
+461,Denver Nuggets,2001,27.0,5.0,Center
+462,Denver Nuggets,2001,27.0,32.0,Guard
+463,Denver Nuggets,2001,27.0,41.0,Center
+464,Denver Nuggets,2002,17.0,3.0,Center-Forward
+465,Denver Nuggets,2002,17.0,23.0,Guard
+466,Denver Nuggets,2002,17.0,54.0,Forward
+467,Denver Nuggets,2002,17.0,55.0,Forward
+468,Denver Nuggets,2003,43.0,18.0,Forward
+469,Denver Nuggets,2003,43.0,33.0,Guard
+470,Denver Nuggets,2004,49.0,26.0,Center
+471,Denver Nuggets,2004,49.0,53.0,Center
+472,Denver Nuggets,2005,44.0,61.0,Nothing
+473,Denver Nuggets,2006,45.0,5.0,Forward
+474,Denver Nuggets,2006,45.0,25.0,Guard
+475,Denver Nuggets,2006,45.0,32.0,Forward
+476,Denver Nuggets,2007,50.0,3.0,Forward
+477,Denver Nuggets,2008,54.0,20.0,Guard
+478,Denver Nuggets,2009,53.0,20.0,Guard
+479,Denver Nuggets,2009,53.0,22.0,Guard
+480,Denver Nuggets,2010,50.0,49.0,Forward
+481,Denver Nuggets,2011,38.0,61.0,Nothing
+482,Denver Nuggets,2013,36.0,61.0,Nothing
+483,Denver Nuggets,2014,30.0,61.0,Nothing
+484,Denver Nuggets,2015,33.0,61.0,Nothing
+485,Denver Nuggets,2016,40.0,20.0,Guard-Forward
+486,Denver Nuggets,2016,40.0,38.0,Forward
+487,Denver Nuggets,2017,46.0,27.0,Center
+488,Denver Nuggets,2018,54.0,61.0,Nothing
+489,Denver Nuggets,2019,46.0,7.0,Guard
+490,Denver Nuggets,2020,47.0,7.0,Guard
+491,Denver Nuggets,2020,47.0,19.0,Guard
+492,Denver Nuggets,2020,47.0,56.0,Guard-Forward
+493,Denver Nuggets,2021,48.0,13.0,Guard
+494,Denver Nuggets,2021,48.0,49.0,Forward
+495,Denver Nuggets,2021,48.0,51.0,Guard
+496,Denver Nuggets,2022,53.0,58.0,Center
+497,Denver Nuggets,2024,,22.0,Forward-Center
+498,Denver Nuggets,2025,,26.0,Guard
+499,Denver Nuggets,2026,,21.0,Guard
+500,Detroit Pistons,1989,59.0,87.0,Guard
+501,Detroit Pistons,1990,50.0,27.0,Forward
+502,Detroit Pistons,1990,50.0,132.0,Guard
+503,Detroit Pistons,1991,48.0,65.0,Forward
+504,Detroit Pistons,1991,48.0,88.0,Center
+505,Detroit Pistons,1992,40.0,48.0,Guard
+506,Detroit Pistons,1992,40.0,72.0,Forward
+507,Detroit Pistons,1993,20.0,61.0,Nothing
+508,Detroit Pistons,1994,28.0,26.0,Guard
+509,Detroit Pistons,1995,46.0,40.0,Guard
+510,Detroit Pistons,1996,54.0,19.0,Forward
+511,Detroit Pistons,1997,37.0,10.0,Guard
+512,Detroit Pistons,1997,37.0,11.0,Guard
+513,Detroit Pistons,1998,29.0,3.0,Forward
+514,Detroit Pistons,1999,42.0,18.0,Center
+515,Detroit Pistons,1999,42.0,19.0,Guard
+516,Detroit Pistons,1999,42.0,30.0,Forward
+517,Detroit Pistons,1999,42.0,58.0,Forward
+518,Detroit Pistons,2000,32.0,26.0,Forward-Center
+519,Detroit Pistons,2001,50.0,19.0,Center-Forward
+520,Detroit Pistons,2002,50.0,11.0,Guard-Forward
+521,Detroit Pistons,2002,50.0,40.0,Forward
+522,Detroit Pistons,2003,54.0,61.0,Nothing
+523,Detroit Pistons,2004,54.0,14.0,Guard
+524,Detroit Pistons,2004,54.0,44.0,Forward
+525,Detroit Pistons,2005,64.0,9.0,Forward
+526,Detroit Pistons,2005,64.0,37.0,Center
+527,Detroit Pistons,2006,53.0,23.0,Forward
+528,Detroit Pistons,2007,59.0,2.0,Center
+529,Detroit Pistons,2007,59.0,25.0,Guard-Forward
+530,Detroit Pistons,2007,59.0,58.0,Center
+531,Detroit Pistons,2008,39.0,61.0,Nothing
+532,Detroit Pistons,2009,27.0,26.0,Forward
+533,Detroit Pistons,2009,27.0,56.0,Center-Forward
+534,Detroit Pistons,2009,27.0,60.0,Guard
+535,Detroit Pistons,2010,30.0,60.0,Guard
+536,Detroit Pistons,2011,25.0,27.0,Guard
+537,Detroit Pistons,2012,,29.0,Forward
+538,Detroit Pistons,2013,29.0,15.0,Forward
+539,Detroit Pistons,2013,29.0,35.0,Forward
+540,Detroit Pistons,2013,29.0,44.0,Forward
+541,Detroit Pistons,2014,32.0,7.0,Forward-Center
+542,Detroit Pistons,2015,44.0,8.0,Guard
+543,Detroit Pistons,2015,44.0,33.0,Forward
+544,Detroit Pistons,2015,44.0,52.0,Forward
+545,Detroit Pistons,2016,37.0,9.0,Center
+546,Detroit Pistons,2016,37.0,39.0,Forward
+547,Detroit Pistons,2016,37.0,44.0,Guard
+548,Detroit Pistons,2017,39.0,8.0,Guard
+549,Detroit Pistons,2017,39.0,37.0,Forward
+550,Detroit Pistons,2017,39.0,37.0,other
+551,Detroit Pistons,2017,39.0,56.0,Guard
+552,Detroit Pistons,2018,41.0,61.0,Nothing
+553,Detroit Pistons,2019,20.0,38.0,Guard
+554,Detroit Pistons,2020,20.0,18.0,Forward-Center
+555,Detroit Pistons,2020,20.0,49.0,Guard-Forward
+556,Detroit Pistons,2021,23.0,12.0,Guard
+557,Detroit Pistons,2022,17.0,42.0,Guard-Forward
+558,Detroit Pistons,2023,,15.0,Forward
+559,Detroit Pistons,2023,,45.0,Forward
+560,Detroit Pistons,2024,,7.0,Guard
+561,Detroit Pistons,2025,,1.0,Guard
+562,Detroit Pistons,2025,,37.0,Forward
+563,Detroit Pistons,2025,,42.0,Forward
+564,Detroit Pistons,2026,,5.0,Guard
+565,Golden State Warriors,1989,37.0,7.0,Forward
+566,Golden State Warriors,1989,37.0,49.0,Forward
+567,Golden State Warriors,1990,44.0,3.0,Center
+568,Golden State Warriors,1990,44.0,51.0,Guard
+569,Golden State Warriors,1990,44.0,97.0,Forward
+570,Golden State Warriors,1991,55.0,14.0,Forward
+571,Golden State Warriors,1991,55.0,58.0,Guard
+572,Golden State Warriors,1991,55.0,127.0,Guard
+573,Golden State Warriors,1992,34.0,5.0,Guard
+574,Golden State Warriors,1992,34.0,41.0,Guard
+575,Golden State Warriors,1993,50.0,14.0,Guard
+576,Golden State Warriors,1994,26.0,11.0,Forward
+577,Golden State Warriors,1994,26.0,28.0,Guard
+578,Golden State Warriors,1994,26.0,34.0,Guard
+579,Golden State Warriors,1995,36.0,16.0,Forward
+580,Golden State Warriors,1995,36.0,17.0,Forward
+581,Golden State Warriors,1995,36.0,43.0,Guard
+582,Golden State Warriors,1996,30.0,24.0,Guard
+583,Golden State Warriors,1996,30.0,43.0,Guard
+584,Golden State Warriors,1997,19.0,3.0,Forward
+585,Golden State Warriors,1998,21.0,16.0,Center
+586,Golden State Warriors,1998,21.0,39.0,Forward
+587,Golden State Warriors,1998,21.0,45.0,Guard
+588,Golden State Warriors,1999,19.0,1.0,Forward-Center
+589,Golden State Warriors,1999,19.0,34.0,Center
+590,Golden State Warriors,1999,19.0,40.0,Forward
+591,Golden State Warriors,1999,19.0,50.0,Forward
+592,Golden State Warriors,1999,19.0,55.0,Center
+593,Golden State Warriors,2000,17.0,11.0,Center
+594,Golden State Warriors,2001,21.0,8.0,Center
+595,Golden State Warriors,2001,21.0,37.0,Forward
+596,Golden State Warriors,2002,38.0,61.0,Nothing
+597,Golden State Warriors,2003,37.0,21.0,Forward-Center
+598,Golden State Warriors,2004,34.0,55.0,Forward
+599,Golden State Warriors,2005,34.0,5.0,Guard
+600,Golden State Warriors,2005,34.0,14.0,Forward-Center
+601,Golden State Warriors,2005,34.0,30.0,Guard
+602,Golden State Warriors,2006,42.0,3.0,Guard-Forward
+603,Golden State Warriors,2006,42.0,3.0,Guard
+604,Golden State Warriors,2007,48.0,11.0,Forward
+605,Golden State Warriors,2007,48.0,40.0,Guard
+606,Golden State Warriors,2008,29.0,11.0,Center
+607,Golden State Warriors,2009,26.0,9.0,Forward
+608,Golden State Warriors,2009,26.0,40.0,Guard
+609,Golden State Warriors,2009,26.0,42.0,Forward
+610,Golden State Warriors,2010,36.0,9.0,Center
+611,Golden State Warriors,2010,36.0,38.0,Center
+612,Golden State Warriors,2011,23.0,46.0,Forward
+613,Golden State Warriors,2012,,14.0,other
+614,Golden State Warriors,2013,51.0,7.0,Guard
+615,Golden State Warriors,2014,67.0,61.0,Nothing
+616,Golden State Warriors,2015,73.0,11.0,Guard
+617,Golden State Warriors,2015,73.0,44.0,Guard
+618,Golden State Warriors,2016,67.0,7.0,Forward
+619,Golden State Warriors,2016,67.0,30.0,Center
+620,Golden State Warriors,2016,67.0,35.0,Forward
+621,Golden State Warriors,2016,67.0,52.0,Center
+622,Golden State Warriors,2017,58.0,61.0,Nothing
+623,Golden State Warriors,2018,57.0,61.0,Nothing
+624,Golden State Warriors,2019,15.0,30.0,Forward
+625,Golden State Warriors,2020,39.0,30.0,Center
+626,Golden State Warriors,2020,39.0,38.0,Guard
+627,Golden State Warriors,2021,53.0,61.0,Nothing
+628,Golden State Warriors,2022,44.0,28.0,Guard-Forward
+629,Golden State Warriors,2023,,28.0,Guard
+630,Golden State Warriors,2023,,41.0,Forward
+631,Golden State Warriors,2023,,58.0,Guard-Forward
+632,Golden State Warriors,2024,,2.0,Center
+633,Golden State Warriors,2024,,48.0,Guard
+634,Golden State Warriors,2025,,14.0,Guard
+635,Golden State Warriors,2026,,28.0,Forward
+636,Golden State Warriors,2026,,51.0,Guard
+637,Houston Rockets,1989,41.0,19.0,Guard
+638,Houston Rockets,1989,41.0,54.0,Forward
+639,Houston Rockets,1990,52.0,20.0,Forward
+640,Houston Rockets,1990,52.0,43.0,Center
+641,Houston Rockets,1990,52.0,89.0,Guard
+642,Houston Rockets,1991,42.0,35.0,Guard
+643,Houston Rockets,1992,55.0,16.0,Forward
+644,Houston Rockets,1993,58.0,61.0,Nothing
+645,Houston Rockets,1994,47.0,12.0,Forward
+646,Houston Rockets,1995,48.0,20.0,Forward
+647,Houston Rockets,1995,48.0,51.0,Center
+648,Houston Rockets,1996,57.0,11.0,Forward-Center
+649,Houston Rockets,1996,57.0,41.0,Forward
+650,Houston Rockets,1997,41.0,46.0,Center
+651,Houston Rockets,1998,31.0,61.0,Nothing
+652,Houston Rockets,1999,34.0,61.0,Nothing
+653,Houston Rockets,2000,45.0,42.0,Guard
+654,Houston Rockets,2001,28.0,24.0,Guard
+655,Houston Rockets,2002,43.0,14.0,Guard
+656,Houston Rockets,2002,43.0,16.0,Guard
+657,Houston Rockets,2002,43.0,41.0,Guard
+658,Houston Rockets,2003,45.0,22.0,Center-Forward
+659,Houston Rockets,2004,51.0,9.0,Center
+660,Houston Rockets,2004,51.0,38.0,Forward
+661,Houston Rockets,2005,34.0,18.0,Center
+662,Houston Rockets,2005,34.0,23.0,Guard
+663,Houston Rockets,2006,52.0,1.0,Center
+664,Houston Rockets,2006,52.0,15.0,Forward
+665,Houston Rockets,2006,52.0,37.0,Guard
+666,Houston Rockets,2007,55.0,61.0,Nothing
+667,Houston Rockets,2008,53.0,55.0,Guard
+668,Houston Rockets,2009,42.0,24.0,Guard
+669,Houston Rockets,2010,43.0,8.0,Forward-Guard
+670,Houston Rockets,2010,43.0,32.0,Forward
+671,Houston Rockets,2011,34.0,26.0,Guard
+672,Houston Rockets,2012,,25.0,Guard-Forward
+673,Houston Rockets,2013,54.0,61.0,Nothing
+674,Houston Rockets,2014,56.0,14.0,Forward
+675,Houston Rockets,2015,41.0,23.0,Forward
+676,Houston Rockets,2015,41.0,38.0,Forward
+677,Houston Rockets,2016,55.0,12.0,Guard-Forward
+678,Houston Rockets,2016,55.0,16.0,Forward
+679,Houston Rockets,2016,55.0,18.0,Forward
+680,Houston Rockets,2017,65.0,34.0,Guard
+681,Houston Rockets,2018,53.0,61.0,Nothing
+682,Houston Rockets,2019,44.0,18.0,Forward
+683,Houston Rockets,2019,44.0,32.0,Forward-Center
+684,Houston Rockets,2020,17.0,37.0,Center
+685,Houston Rockets,2021,20.0,43.0,Center-Forward
+686,Houston Rockets,2021,20.0,45.0,Guard-Forward
+687,Houston Rockets,2022,22.0,46.0,Guard
+688,Houston Rockets,2025,,2.0,Guard
+689,Houston Rockets,2025,,23.0,Forward
+690,Houston Rockets,2025,,24.0,Guard
+691,Houston Rockets,2026,,3.0,Forward
+692,Houston Rockets,2026,,17.0,Forward
+693,Indiana Pacers,1989,42.0,2.0,Forward
+694,Indiana Pacers,1989,42.0,26.0,Forward
+695,Indiana Pacers,1989,42.0,27.0,Guard
+696,Indiana Pacers,1990,41.0,4.0,Forward
+697,Indiana Pacers,1990,41.0,26.0,Center
+698,Indiana Pacers,1990,41.0,95.0,Forward
+699,Indiana Pacers,1991,40.0,34.0,Forward
+700,Indiana Pacers,1992,41.0,2.0,Center
+701,Indiana Pacers,1992,41.0,73.0,Guard
+702,Indiana Pacers,1993,47.0,7.0,Forward
+703,Indiana Pacers,1994,52.0,45.0,Forward-Center
+704,Indiana Pacers,1995,52.0,13.0,Center-Forward
+705,Indiana Pacers,1995,52.0,41.0,Guard
+706,Indiana Pacers,1996,39.0,14.0,Guard-Forward
+707,Indiana Pacers,1997,58.0,14.0,Forward
+708,Indiana Pacers,1998,33.0,15.0,Guard-Forward
+709,Indiana Pacers,1999,56.0,23.0,Guard
+710,Indiana Pacers,2000,41.0,10.0,Center
+711,Indiana Pacers,2001,42.0,12.0,Forward
+712,Indiana Pacers,2002,48.0,25.0,Forward
+713,Indiana Pacers,2003,61.0,61.0,Nothing
+714,Indiana Pacers,2004,44.0,27.0,Center
+715,Indiana Pacers,2005,41.0,40.0,Guard
+716,Indiana Pacers,2006,35.0,14.0,Guard
+717,Indiana Pacers,2007,36.0,49.0,Guard-Forward
+718,Indiana Pacers,2008,36.0,29.0,Center
+719,Indiana Pacers,2009,32.0,17.0,Forward-Guard
+720,Indiana Pacers,2010,37.0,17.0,Forward
+721,Indiana Pacers,2011,42.0,61.0,Nothing
+722,Indiana Pacers,2012,,41.0,Forward
+723,Indiana Pacers,2013,56.0,13.0,other
+724,Indiana Pacers,2013,56.0,52.0,Guard
+725,Indiana Pacers,2014,38.0,57.0,Forward
+726,Indiana Pacers,2015,45.0,15.0,Forward
+727,Indiana Pacers,2015,45.0,42.0,Forward
+728,Indiana Pacers,2016,42.0,26.0,Center
+729,Indiana Pacers,2017,48.0,23.0,Forward
+730,Indiana Pacers,2018,48.0,61.0,Nothing
+731,Indiana Pacers,2019,45.0,11.0,Center-Forward
+732,Indiana Pacers,2019,45.0,43.0,Guard
+733,Indiana Pacers,2020,34.0,20.0,Guard
+734,Indiana Pacers,2020,34.0,50.0,Forward
+735,Indiana Pacers,2021,25.0,18.0,Forward
+736,Indiana Pacers,2021,25.0,47.0,Center
+737,Indiana Pacers,2022,35.0,23.0,Guard
+738,Indiana Pacers,2023,,18.0,Center-Forward
+739,Indiana Pacers,2023,,50.0,Forward
+740,Indiana Pacers,2024,,54.0,Guard
+741,Indiana Pacers,2025,,13.0,Guard
+742,Indiana Pacers,2025,,54.0,Forward-Center
+743,Indiana Pacers,2025,,60.0,Forward
+744,Indiana Pacers,2026,,6.0,Guard-Forward
+745,LA Clippers,2015,53.0,61.0,Nothing
+746,LA Clippers,2016,51.0,61.0,Nothing
+747,LA Clippers,2017,42.0,61.0,Nothing
+748,LA Clippers,2018,48.0,61.0,Nothing
+749,LA Clippers,2019,49.0,61.0,Nothing
+750,LA Clippers,2020,47.0,25.0,Forward
+751,LA Clippers,2020,47.0,33.0,Forward-Center
+752,LA Clippers,2021,42.0,61.0,Nothing
+753,LA Clippers,2022,44.0,12.0,Forward
+754,LA Clippers,2023,,48.0,Guard-Forward
+755,LA Clippers,2024,,57.0,Forward-Center
+756,LA Clippers,2025,,25.0,Guard
+757,LA Clippers,2026,,43.0,Forward
+758,Los Angeles Clippers,1989,30.0,3.0,Center
+759,Los Angeles Clippers,1989,30.0,121.0,Forward
+760,Los Angeles Clippers,1990,31.0,54.0,Forward
+761,Los Angeles Clippers,1990,31.0,100.0,Forward
+762,Los Angeles Clippers,1990,31.0,124.0,Center
+763,Los Angeles Clippers,1991,45.0,4.0,other
+764,Los Angeles Clippers,1991,45.0,4.0,Forward
+765,Los Angeles Clippers,1991,45.0,19.0,Forward
+766,Los Angeles Clippers,1991,45.0,38.0,Forward
+767,Los Angeles Clippers,1991,45.0,116.0,Forward
+768,Los Angeles Clippers,1992,41.0,1.0,Forward-Center
+769,Los Angeles Clippers,1992,41.0,6.0,Guard
+770,Los Angeles Clippers,1992,41.0,45.0,Guard
+771,Los Angeles Clippers,1992,41.0,51.0,Forward
+772,Los Angeles Clippers,1993,27.0,2.0,Forward
+773,Los Angeles Clippers,1993,27.0,31.0,Guard
+774,Los Angeles Clippers,1993,27.0,33.0,Forward
+775,Los Angeles Clippers,1994,17.0,8.0,Guard
+776,Los Angeles Clippers,1994,17.0,13.0,Forward-Center
+777,Los Angeles Clippers,1995,29.0,22.0,Center
+778,Los Angeles Clippers,1995,29.0,37.0,Guard
+779,Los Angeles Clippers,1996,36.0,16.0,Guard
+780,Los Angeles Clippers,1996,36.0,25.0,Center
+781,Los Angeles Clippers,1997,17.0,13.0,Guard
+782,Los Angeles Clippers,1998,9.0,7.0,Forward
+783,Los Angeles Clippers,1998,9.0,25.0,Guard
+784,Los Angeles Clippers,1999,15.0,2.0,Forward-Center
+785,Los Angeles Clippers,2000,31.0,7.0,Forward-Center
+786,Los Angeles Clippers,2001,39.0,14.0,Forward-Center
+787,Los Angeles Clippers,2002,27.0,1.0,Center
+788,Los Angeles Clippers,2003,28.0,4.0,Forward
+789,Los Angeles Clippers,2004,37.0,3.0,Forward
+790,Los Angeles Clippers,2004,37.0,18.0,Forward
+791,Los Angeles Clippers,2004,37.0,30.0,Guard
+792,Los Angeles Clippers,2005,47.0,2.0,Center
+793,Los Angeles Clippers,2006,40.0,8.0,Forward-Center
+794,Los Angeles Clippers,2006,40.0,12.0,Center-Forward
+795,Los Angeles Clippers,2006,40.0,40.0,Center
+796,Los Angeles Clippers,2007,23.0,6.0,Center
+797,Los Angeles Clippers,2008,19.0,4.0,Guard
+798,Los Angeles Clippers,2008,19.0,33.0,Guard
+799,Los Angeles Clippers,2009,29.0,12.0,Forward
+800,Los Angeles Clippers,2009,29.0,32.0,Guard
+801,Los Angeles Clippers,2010,32.0,34.0,Center
+802,Los Angeles Clippers,2011,40.0,14.0,Forward
+803,Los Angeles Clippers,2012,,7.0,Guard
+804,Los Angeles Clippers,2012,,35.0,Center
+805,Los Angeles Clippers,2013,57.0,1.0,Forward
+806,Los Angeles Clippers,2014,56.0,54.0,Guard
+807,Los Angeles Clippers,2015,,37.0,Forward
+808,Los Angeles Clippers,2015,,47.0,other
+809,Los Angeles Clippers,2016,,53.0,Forward-Center
+810,Los Angeles Clippers,2017,,25.0,Guard-Forward
+811,Los Angeles Lakers,1989,63.0,23.0,Forward
+812,Los Angeles Lakers,1989,63.0,92.0,Forward
+813,Los Angeles Lakers,1990,58.0,69.0,Guard
+814,Los Angeles Lakers,1991,43.0,61.0,Nothing
+815,Los Angeles Lakers,1992,39.0,61.0,Nothing
+816,Los Angeles Lakers,1993,33.0,26.0,Center
+817,Los Angeles Lakers,1994,48.0,27.0,Center-Forward
+818,Los Angeles Lakers,1995,53.0,52.0,Guard
+819,Los Angeles Lakers,1996,56.0,15.0,Guard
+820,Los Angeles Lakers,1996,56.0,36.0,Guard
+821,Los Angeles Lakers,1997,61.0,12.0,Forward
+822,Los Angeles Lakers,1997,61.0,37.0,Guard
+823,Los Angeles Lakers,1998,31.0,10.0,Guard-Forward
+824,Los Angeles Lakers,1999,67.0,37.0,Guard
+825,Los Angeles Lakers,2000,56.0,24.0,Guard
+826,Los Angeles Lakers,2001,58.0,51.0,Guard
+827,Los Angeles Lakers,2002,50.0,26.0,Guard
+828,Los Angeles Lakers,2002,50.0,31.0,Forward
+829,Los Angeles Lakers,2002,50.0,45.0,Guard
+830,Los Angeles Lakers,2003,56.0,23.0,Forward
+831,Los Angeles Lakers,2004,34.0,61.0,Nothing
+832,Los Angeles Lakers,2005,45.0,61.0,Nothing
+833,Los Angeles Lakers,2006,42.0,27.0,Forward
+834,Los Angeles Lakers,2007,57.0,32.0,Forward
+835,Los Angeles Lakers,2008,65.0,27.0,Guard
+836,Los Angeles Lakers,2009,57.0,10.0,Center
+837,Los Angeles Lakers,2010,57.0,26.0,Guard
+838,Los Angeles Lakers,2010,57.0,51.0,Center
+839,Los Angeles Lakers,2011,41.0,19.0,Guard
+840,Los Angeles Lakers,2011,41.0,40.0,Guard
+841,Los Angeles Lakers,2012,,58.0,Guard
+842,Los Angeles Lakers,2013,27.0,29.0,Guard
+843,Los Angeles Lakers,2013,27.0,42.0,Guard
+844,Los Angeles Lakers,2014,21.0,43.0,Forward
+845,Los Angeles Lakers,2014,21.0,58.0,Forward
+846,Los Angeles Lakers,2015,17.0,41.0,Guard
+847,Los Angeles Lakers,2015,17.0,46.0,Guard
+848,Los Angeles Lakers,2016,26.0,60.0,Center
+849,Los Angeles Lakers,2017,35.0,48.0,Forward
+850,Los Angeles Lakers,2018,37.0,61.0,Nothing
+851,Los Angeles Lakers,2019,52.0,2.0,Guard
+852,Los Angeles Lakers,2019,52.0,27.0,Forward-Center
+853,Los Angeles Lakers,2019,52.0,34.0,Forward-Guard
+854,Los Angeles Lakers,2020,42.0,2.0,Forward
+855,Los Angeles Lakers,2020,42.0,32.0,Center
+856,Los Angeles Lakers,2021,33.0,2.0,Guard
+857,Los Angeles Lakers,2021,33.0,28.0,Center-Forward
+858,Los Angeles Lakers,2022,43.0,47.0,Guard-Forward
+859,Los Angeles Lakers,2023,,4.0,Forward-Guard
+860,Los Angeles Lakers,2025,,22.0,Forward
+861,Memphis Grizzlies,2001,23.0,61.0,Nothing
+862,Memphis Grizzlies,2002,28.0,61.0,Nothing
+863,Memphis Grizzlies,2003,50.0,61.0,Nothing
+864,Memphis Grizzlies,2004,45.0,61.0,Nothing
+865,Memphis Grizzlies,2005,49.0,6.0,Forward
+866,Memphis Grizzlies,2005,49.0,27.0,Guard
+867,Memphis Grizzlies,2005,49.0,32.0,Guard
+868,Memphis Grizzlies,2006,22.0,4.0,Forward
+869,Memphis Grizzlies,2006,22.0,31.0,Forward
+870,Memphis Grizzlies,2006,22.0,45.0,Forward
+871,Memphis Grizzlies,2007,22.0,13.0,Guard
+872,Memphis Grizzlies,2007,22.0,27.0,Center
+873,Memphis Grizzlies,2008,24.0,61.0,Nothing
+874,Memphis Grizzlies,2009,40.0,19.0,Forward
+875,Memphis Grizzlies,2010,46.0,24.0,Guard
+876,Memphis Grizzlies,2011,41.0,4.0,Guard
+877,Memphis Grizzlies,2012,,5.0,Forward-Center
+878,Memphis Grizzlies,2012,,28.0,Forward
+879,Memphis Grizzlies,2013,50.0,2.0,Center
+880,Memphis Grizzlies,2013,50.0,27.0,Forward
+881,Memphis Grizzlies,2013,50.0,36.0,Forward-Guard
+882,Memphis Grizzlies,2014,55.0,12.0,Forward-Guard
+883,Memphis Grizzlies,2014,55.0,25.0,Guard
+884,Memphis Grizzlies,2014,55.0,28.0,Guard
+885,Memphis Grizzlies,2015,42.0,49.0,Guard
+886,Memphis Grizzlies,2016,43.0,25.0,Guard
+887,Memphis Grizzlies,2017,22.0,41.0,Guard
+888,Memphis Grizzlies,2017,22.0,55.0,Center
+889,Memphis Grizzlies,2018,33.0,61.0,Nothing
+890,Memphis Grizzlies,2019,34.0,25.0,Forward
+891,Memphis Grizzlies,2020,38.0,17.0,Guard
+892,Memphis Grizzlies,2021,56.0,61.0,Nothing
+893,Memphis Grizzlies,2022,51.0,4.0,Forward-Center
+894,Memphis Grizzlies,2022,51.0,32.0,Guard
+895,Memphis Grizzlies,2023,,2.0,Guard
+896,Memphis Grizzlies,2024,,40.0,Forward
+897,Memphis Grizzlies,2025,,17.0,Forward
+898,Memphis Grizzlies,2025,,51.0,Guard
+899,Memphis Grizzlies,2026,,22.0,Center
+900,Memphis Grizzlies,2026,,29.0,Guard
+901,Memphis Grizzlies,2026,,47.0,Guard
+902,Miami Heat,1989,18.0,61.0,Nothing
+903,Miami Heat,1990,24.0,61.0,Nothing
+904,Miami Heat,1991,38.0,61.0,Nothing
+905,Miami Heat,1992,36.0,9.0,Center
+906,Miami Heat,1992,36.0,20.0,Guard
+907,Miami Heat,1992,36.0,35.0,Forward
+908,Miami Heat,1992,36.0,40.0,Forward
+909,Miami Heat,1992,36.0,59.0,Center
+910,Miami Heat,1993,42.0,4.0,Forward-Guard
+911,Miami Heat,1993,42.0,4.0,Guard-Forward
+912,Miami Heat,1993,42.0,28.0,Guard
+913,Miami Heat,1993,42.0,45.0,Guard
+914,Miami Heat,1994,32.0,9.0,Forward
+915,Miami Heat,1994,32.0,15.0,Guard
+916,Miami Heat,1994,32.0,30.0,other
+917,Miami Heat,1995,42.0,5.0,Guard-Forward
+918,Miami Heat,1995,42.0,5.0,Forward
+919,Miami Heat,1996,61.0,12.0,Guard
+920,Miami Heat,1996,61.0,37.0,Forward
+921,Miami Heat,1996,61.0,42.0,Center
+922,Miami Heat,1997,55.0,61.0,Nothing
+923,Miami Heat,1998,33.0,12.0,Guard
+924,Miami Heat,1998,33.0,40.0,Forward
+925,Miami Heat,1999,52.0,10.0,Forward
+926,Miami Heat,2000,50.0,61.0,Nothing
+927,Miami Heat,2001,36.0,26.0,Forward
+928,Miami Heat,2001,36.0,26.0,Guard
+929,Miami Heat,2001,36.0,26.0,Forward
+930,Miami Heat,2002,25.0,51.0,Guard-Forward
+931,Miami Heat,2003,42.0,25.0,Forward
+932,Miami Heat,2004,59.0,37.0,Guard
+933,Miami Heat,2005,52.0,48.0,Forward
+934,Miami Heat,2006,44.0,10.0,Forward
+935,Miami Heat,2006,44.0,52.0,Forward
+936,Miami Heat,2007,15.0,33.0,Forward
+937,Miami Heat,2008,43.0,47.0,Forward
+938,Miami Heat,2008,43.0,53.0,Forward
+939,Miami Heat,2009,47.0,29.0,Forward
+940,Miami Heat,2010,58.0,61.0,Nothing
+941,Miami Heat,2011,46.0,20.0,Forward-Center
+942,Miami Heat,2012,,52.0,Forward
+943,Miami Heat,2013,54.0,43.0,Guard-Forward
+944,Miami Heat,2014,37.0,32.0,Center
+945,Miami Heat,2014,37.0,41.0,Forward-Center
+946,Miami Heat,2015,48.0,31.0,Forward
+947,Miami Heat,2016,41.0,27.0,Forward
+948,Miami Heat,2017,44.0,61.0,Nothing
+949,Miami Heat,2018,39.0,61.0,Nothing
+950,Miami Heat,2019,44.0,10.0,Forward-Guard
+951,Miami Heat,2019,44.0,40.0,Guard
+952,Miami Heat,2020,40.0,61.0,Nothing
+953,Miami Heat,2021,53.0,14.0,Center-Forward
+954,Miami Heat,2022,44.0,61.0,Nothing
+955,Miami Heat,2023,,44.0,Center-Forward
+956,Miami Heat,2024,,20.0,Forward
+957,Miami Heat,2026,,27.0,Forward
+958,Milwaukee Bucks,1989,44.0,22.0,Guard
+959,Milwaukee Bucks,1989,44.0,160.0,Guard-Forward
+960,Milwaukee Bucks,1990,48.0,22.0,Guard
+961,Milwaukee Bucks,1990,48.0,45.0,Guard
+962,Milwaukee Bucks,1991,31.0,32.0,Forward
+963,Milwaukee Bucks,1992,28.0,13.0,Guard
+964,Milwaukee Bucks,1992,28.0,39.0,Center
+965,Milwaukee Bucks,1993,20.0,30.0,Forward
+966,Milwaukee Bucks,1994,34.0,16.0,Forward
+967,Milwaukee Bucks,1994,34.0,44.0,Guard
+968,Milwaukee Bucks,1995,25.0,18.0,Forward
+969,Milwaukee Bucks,1996,33.0,8.0,other
+970,Milwaukee Bucks,1997,36.0,8.0,Forward
+971,Milwaukee Bucks,1998,28.0,1.0,Forward
+972,Milwaukee Bucks,1998,28.0,18.0,Center
+973,Milwaukee Bucks,1999,42.0,11.0,Forward
+974,Milwaukee Bucks,1999,42.0,43.0,Guard
+975,Milwaukee Bucks,2000,52.0,4.0,Guard
+976,Milwaukee Bucks,2000,52.0,33.0,Guard
+977,Milwaukee Bucks,2000,52.0,53.0,Forward
+978,Milwaukee Bucks,2001,41.0,10.0,Center-Forward
+979,Milwaukee Bucks,2002,42.0,9.0,Forward
+980,Milwaukee Bucks,2002,42.0,19.0,Forward
+981,Milwaukee Bucks,2002,42.0,39.0,Guard
+982,Milwaukee Bucks,2003,41.0,61.0,Nothing
+983,Milwaukee Bucks,2004,30.0,15.0,Center
+984,Milwaukee Bucks,2004,30.0,43.0,Guard
+985,Milwaukee Bucks,2004,30.0,49.0,Guard
+986,Milwaukee Bucks,2005,40.0,61.0,Nothing
+987,Milwaukee Bucks,2006,28.0,13.0,Forward
+988,Milwaukee Bucks,2006,28.0,33.0,Center
+989,Milwaukee Bucks,2006,28.0,41.0,Guard
+990,Milwaukee Bucks,2006,28.0,47.0,Forward
+991,Milwaukee Bucks,2007,26.0,8.0,Guard
+992,Milwaukee Bucks,2007,26.0,43.0,Guard-Forward
+993,Milwaukee Bucks,2008,34.0,61.0,Nothing
+994,Milwaukee Bucks,2009,46.0,1.0,Center
+995,Milwaukee Bucks,2009,46.0,36.0,Forward
+996,Milwaukee Bucks,2010,35.0,39.0,Forward-Guard
+997,Milwaukee Bucks,2011,31.0,61.0,Nothing
+998,Milwaukee Bucks,2012,,8.0,Forward
+999,Milwaukee Bucks,2012,,37.0,Forward
+1000,Milwaukee Bucks,2013,15.0,41.0,Guard
+1001,Milwaukee Bucks,2014,41.0,37.0,Guard
+1002,Milwaukee Bucks,2014,41.0,44.0,Center
+1003,Milwaukee Bucks,2015,33.0,10.0,Guard
+1004,Milwaukee Bucks,2015,33.0,40.0,Forward
+1005,Milwaukee Bucks,2016,42.0,14.0,Forward-Center
+1006,Milwaukee Bucks,2016,42.0,42.0,Guard
+1007,Milwaukee Bucks,2017,44.0,15.0,Forward
+1008,Milwaukee Bucks,2017,44.0,43.0,Guard
+1009,Milwaukee Bucks,2018,60.0,61.0,Nothing
+1010,Milwaukee Bucks,2019,56.0,17.0,Guard
+1011,Milwaukee Bucks,2019,56.0,46.0,Guard
+1012,Milwaukee Bucks,2020,46.0,10.0,Forward-Center
+1013,Milwaukee Bucks,2021,51.0,17.0,Forward
+1014,Milwaukee Bucks,2021,51.0,48.0,Guard
+1015,Milwaukee Bucks,2022,58.0,17.0,Guard
+1016,Milwaukee Bucks,2022,58.0,49.0,Forward-Center
+1017,Milwaukee Bucks,2023,,30.0,Guard-Forward
+1018,Milwaukee Bucks,2024,,24.0,Guard
+1019,Milwaukee Bucks,2024,,45.0,Forward
+1020,Milwaukee Bucks,2025,,31.0,Forward
+1021,Milwaukee Bucks,2026,,24.0,Forward
+1022,Minnesota Timberwolves,1989,22.0,61.0,Nothing
+1023,Minnesota Timberwolves,1990,29.0,61.0,Nothing
+1024,Minnesota Timberwolves,1991,15.0,61.0,Nothing
+1025,Minnesota Timberwolves,1992,19.0,61.0,Nothing
+1026,Minnesota Timberwolves,1993,20.0,10.0,Guard
+1027,Minnesota Timberwolves,1993,20.0,34.0,Center
+1028,Minnesota Timberwolves,1993,20.0,38.0,Guard
+1029,Minnesota Timberwolves,1994,21.0,6.0,Center
+1030,Minnesota Timberwolves,1994,21.0,20.0,Forward
+1031,Minnesota Timberwolves,1995,26.0,7.0,Center
+1032,Minnesota Timberwolves,1995,26.0,34.0,Forward
+1033,Minnesota Timberwolves,1996,40.0,3.0,Forward-Center
+1034,Minnesota Timberwolves,1996,40.0,28.0,Forward
+1035,Minnesota Timberwolves,1996,40.0,34.0,Guard
+1036,Minnesota Timberwolves,1996,40.0,34.0,Guard
+1037,Minnesota Timberwolves,1997,45.0,5.0,Guard
+1038,Minnesota Timberwolves,1998,25.0,4.0,Forward
+1039,Minnesota Timberwolves,1998,25.0,30.0,Guard
+1040,Minnesota Timberwolves,1999,50.0,5.0,Forward
+1041,Minnesota Timberwolves,1999,50.0,48.0,Guard-Forward
+1042,Minnesota Timberwolves,1999,50.0,48.0,Forward
+1043,Minnesota Timberwolves,2000,47.0,61.0,Nothing
+1044,Minnesota Timberwolves,2001,50.0,20.0,Center
+1045,Minnesota Timberwolves,2002,51.0,17.0,Center
+1046,Minnesota Timberwolves,2002,51.0,46.0,Forward
+1047,Minnesota Timberwolves,2003,58.0,6.0,Guard-Forward
+1048,Minnesota Timberwolves,2003,58.0,14.0,Guard
+1049,Minnesota Timberwolves,2004,44.0,51.0,Guard
+1050,Minnesota Timberwolves,2005,33.0,45.0,Center
+1051,Minnesota Timberwolves,2006,32.0,61.0,Nothing
+1052,Minnesota Timberwolves,2007,22.0,26.0,Forward
+1053,Minnesota Timberwolves,2008,24.0,61.0,Nothing
+1054,Minnesota Timberwolves,2009,15.0,14.0,Guard
+1055,Minnesota Timberwolves,2009,15.0,47.0,Guard
+1056,Minnesota Timberwolves,2010,17.0,6.0,Guard
+1057,Minnesota Timberwolves,2010,17.0,36.0,Forward
+1058,Minnesota Timberwolves,2010,17.0,37.0,Forward
+1059,Minnesota Timberwolves,2011,26.0,7.0,Guard-Forward
+1060,Minnesota Timberwolves,2011,26.0,41.0,Forward
+1061,Minnesota Timberwolves,2012,,3.0,Guard
+1062,Minnesota Timberwolves,2012,,31.0,Center
+1063,Minnesota Timberwolves,2012,,34.0,Guard
+1064,Minnesota Timberwolves,2013,40.0,6.0,Guard
+1065,Minnesota Timberwolves,2013,40.0,18.0,Guard
+1066,Minnesota Timberwolves,2013,40.0,28.0,Guard
+1067,Minnesota Timberwolves,2013,40.0,45.0,Guard
+1068,Minnesota Timberwolves,2014,16.0,4.0,Forward-Guard
+1069,Minnesota Timberwolves,2014,16.0,16.0,Forward
+1070,Minnesota Timberwolves,2014,16.0,23.0,Forward
+1071,Minnesota Timberwolves,2014,16.0,56.0,Center
+1072,Minnesota Timberwolves,2015,29.0,2.0,Forward
+1073,Minnesota Timberwolves,2015,29.0,20.0,Forward-Center
+1074,Minnesota Timberwolves,2016,31.0,58.0,Forward
+1075,Minnesota Timberwolves,2017,47.0,9.0,Guard
+1076,Minnesota Timberwolves,2017,47.0,26.0,Guard-Forward
+1077,Minnesota Timberwolves,2017,47.0,52.0,Guard
+1078,Minnesota Timberwolves,2018,36.0,61.0,Nothing
+1079,Minnesota Timberwolves,2019,19.0,1.0,Center-Forward
+1080,Minnesota Timberwolves,2019,19.0,31.0,Forward
+1081,Minnesota Timberwolves,2019,19.0,36.0,Forward
+1082,Minnesota Timberwolves,2020,23.0,5.0,Guard
+1083,Minnesota Timberwolves,2021,46.0,7.0,Forward-Center
+1084,Minnesota Timberwolves,2022,42.0,20.0,Guard
+1085,Minnesota Timberwolves,2023,,11.0,Forward
+1086,Minnesota Timberwolves,2023,,43.0,Guard
+1087,Minnesota Timberwolves,2024,,1.0,Guard
+1088,Minnesota Timberwolves,2024,,17.0,Forward
+1089,Minnesota Timberwolves,2024,,33.0,Center
+1090,Minnesota Timberwolves,2026,,19.0,Forward
+1091,Minnesota Timberwolves,2026,,48.0,Guard
+1092,New Jersey Nets,1989,17.0,36.0,Forward
+1093,New Jersey Nets,1989,17.0,38.0,Center
+1094,New Jersey Nets,1990,26.0,13.0,Guard
+1095,New Jersey Nets,1991,40.0,3.0,Forward
+1096,New Jersey Nets,1991,40.0,48.0,Forward
+1097,New Jersey Nets,1992,43.0,4.0,Forward
+1098,New Jersey Nets,1992,43.0,32.0,Center
+1099,New Jersey Nets,1993,45.0,12.0,Guard
+1100,New Jersey Nets,1993,45.0,32.0,Forward
+1101,New Jersey Nets,1994,30.0,1.0,Forward
+1102,New Jersey Nets,1995,30.0,2.0,Guard
+1103,New Jersey Nets,1996,26.0,29.0,Forward-Center
+1104,New Jersey Nets,1997,43.0,16.0,Guard
+1105,New Jersey Nets,1998,16.0,14.0,Center
+1106,New Jersey Nets,1999,31.0,9.0,Forward
+1107,New Jersey Nets,2000,26.0,8.0,Guard
+1108,New Jersey Nets,2001,52.0,7.0,Forward
+1109,New Jersey Nets,2001,52.0,21.0,Guard
+1110,New Jersey Nets,2002,49.0,61.0,Nothing
+1111,New Jersey Nets,2003,47.0,34.0,Center
+1112,New Jersey Nets,2004,42.0,1.0,Forward
+1113,New Jersey Nets,2005,49.0,7.0,Forward
+1114,New Jersey Nets,2005,49.0,34.0,Forward
+1115,New Jersey Nets,2006,41.0,24.0,Center
+1116,New Jersey Nets,2006,41.0,53.0,Guard
+1117,New Jersey Nets,2007,34.0,22.0,other
+1118,New Jersey Nets,2008,34.0,22.0,other
+1119,New Jersey Nets,2009,12.0,15.0,Forward-Guard
+1120,New Jersey Nets,2009,12.0,43.0,Center
+1121,New Jersey Nets,2010,24.0,22.0,Guard
+1122,New Jersey Nets,2010,24.0,22.0,Guard
+1123,New Jersey Nets,2010,24.0,23.0,Forward-Center
+1124,New Jersey Nets,2010,24.0,54.0,Forward
+1125,New Jersey Nets,2011,22.0,17.0,Forward-Center
+1126,New Jersey Nets,2012,,21.0,Forward
+1127,New Jersey Nets,2012,,40.0,Guard
+1128,New Jersey Nets,2013,,11.0,Guard-Forward
+1129,New Jersey Nets,2014,,3.0,Forward
+1130,New Jersey Nets,2014,,27.0,Guard
+1131,New Jersey Nets,2015,,27.0,Forward
+1132,New Orleans Hornets,2002,47.0,61.0,Nothing
+1133,New Orleans Hornets,2003,41.0,61.0,Nothing
+1134,New Orleans Hornets,2004,18.0,61.0,Nothing
+1135,New Orleans Hornets,2007,56.0,18.0,Forward
+1136,New Orleans Hornets,2007,56.0,48.0,Center
+1137,New Orleans Hornets,2008,49.0,18.0,Guard
+1138,New Orleans Hornets,2009,37.0,61.0,Nothing
+1139,New Orleans Hornets,2010,46.0,61.0,Nothing
+1140,New Orleans Hornets,2011,21.0,13.0,Forward
+1141,New Orleans Hornets,2012,,27.0,Forward
+1142,New Orleans Hornets,2013,,21.0,Guard
+1143,New Orleans Hornets,2014,,11.0,Center
+1144,New Orleans Hornets,2015,,45.0,Forward-Center
+1145,New Orleans Hornets,2016,,1.0,Forward-Center
+1146,New Orleans Hornets,2016,,10.0,Guard
+1147,New Orleans Hornets,2016,,46.0,Forward
+1148,New Orleans Pelicans,2013,34.0,61.0,Nothing
+1149,New Orleans Pelicans,2014,45.0,61.0,Nothing
+1150,New Orleans Pelicans,2015,30.0,61.0,Nothing
+1151,New Orleans Pelicans,2016,34.0,61.0,Nothing
+1152,New Orleans Pelicans,2017,48.0,6.0,Center-Forward
+1153,New Orleans Pelicans,2018,33.0,61.0,Nothing
+1154,New Orleans Pelicans,2019,30.0,61.0,Nothing
+1155,New Orleans Pelicans,2020,31.0,6.0,Guard
+1156,New Orleans Pelicans,2020,31.0,40.0,Center
+1157,New Orleans Pelicans,2021,36.0,40.0,Guard-Forward
+1158,New Orleans Pelicans,2021,36.0,52.0,Guard
+1159,New Orleans Pelicans,2022,42.0,61.0,Nothing
+1160,New Orleans Pelicans,2023,,1.0,Forward
+1161,New Orleans Pelicans,2023,,39.0,Forward
+1162,New Orleans Pelicans,2023,,57.0,Guard
+1163,New Orleans Pelicans,2024,,42.0,Center
+1164,New Orleans Pelicans,2024,,60.0,Guard
+1165,New Orleans Pelicans,2025,,10.0,Forward
+1166,New Orleans Pelicans,2025,,35.0,Forward
+1167,New Orleans Pelicans,2025,,43.0,Forward
+1168,New Orleans Pelicans,2026,,8.0,Guard
+1169,New Orleans/Oklahoma City Hornets,2005,38.0,61.0,Nothing
+1170,New Orleans/Oklahoma City Hornets,2006,39.0,61.0,Nothing
+1171,New Orleans/Oklahoma City Hornets,2009,,4.0,Guard
+1172,New Orleans/Oklahoma City Hornets,2009,,33.0,Forward
+1173,New Orleans/Oklahoma City Hornets,2010,,12.0,Forward-Center
+1174,New Orleans/Oklahoma City Hornets,2010,,15.0,Forward
+1175,New Orleans/Oklahoma City Hornets,2010,,43.0,Forward
+1176,New York Knicks,1989,45.0,1.0,Forward
+1177,New York Knicks,1989,45.0,47.0,Guard
+1178,New York Knicks,1989,45.0,73.0,Guard
+1179,New York Knicks,1990,39.0,5.0,Forward
+1180,New York Knicks,1991,51.0,18.0,Guard
+1181,New York Knicks,1991,51.0,25.0,Center
+1182,New York Knicks,1992,60.0,19.0,Guard
+1183,New York Knicks,1992,60.0,37.0,Center
+1184,New York Knicks,1993,57.0,50.0,Guard
+1185,New York Knicks,1994,55.0,17.0,Forward
+1186,New York Knicks,1995,47.0,12.0,Guard
+1187,New York Knicks,1996,57.0,20.0,Guard
+1188,New York Knicks,1997,43.0,61.0,Nothing
+1189,New York Knicks,1998,27.0,24.0,Forward
+1190,New York Knicks,1998,27.0,26.0,Guard
+1191,New York Knicks,1999,50.0,61.0,Nothing
+1192,New York Knicks,2000,48.0,18.0,Forward
+1193,New York Knicks,2000,48.0,19.0,Forward
+1194,New York Knicks,2000,48.0,21.0,Forward
+1195,New York Knicks,2001,30.0,25.0,Center
+1196,New York Knicks,2002,37.0,38.0,Forward
+1197,New York Knicks,2002,37.0,44.0,Forward-Center
+1198,New York Knicks,2003,39.0,61.0,Nothing
+1199,New York Knicks,2004,33.0,22.0,Forward
+1200,New York Knicks,2004,33.0,39.0,Guard-Forward
+1201,New York Knicks,2005,23.0,61.0,Nothing
+1202,New York Knicks,2006,33.0,61.0,Nothing
+1203,New York Knicks,2007,23.0,9.0,Forward
+1204,New York Knicks,2007,23.0,30.0,Forward
+1205,New York Knicks,2007,23.0,39.0,Center
+1206,New York Knicks,2008,32.0,43.0,Forward
+1207,New York Knicks,2009,29.0,8.0,Forward-Center
+1208,New York Knicks,2009,29.0,30.0,Forward-Center
+1209,New York Knicks,2009,29.0,54.0,Guard-Forward
+1210,New York Knicks,2010,42.0,20.0,Forward
+1211,New York Knicks,2010,42.0,29.0,Guard
+1212,New York Knicks,2011,36.0,23.0,Forward
+1213,New York Knicks,2012,,6.0,Forward
+1214,New York Knicks,2013,37.0,8.0,Forward-Center
+1215,New York Knicks,2014,17.0,38.0,Guard
+1216,New York Knicks,2014,17.0,39.0,Guard-Forward
+1217,New York Knicks,2015,32.0,17.0,Guard
+1218,New York Knicks,2016,31.0,48.0,Forward
+1219,New York Knicks,2017,29.0,24.0,Guard-Forward
+1220,New York Knicks,2018,17.0,61.0,Nothing
+1221,New York Knicks,2019,21.0,4.0,Forward-Center
+1222,New York Knicks,2020,41.0,61.0,Nothing
+1223,New York Knicks,2021,37.0,8.0,Guard
+1224,New York Knicks,2021,37.0,44.0,Guard
+1225,New York Knicks,2022,47.0,9.0,Forward
+1226,New York Knicks,2022,47.0,36.0,Center-Forward
+1227,New York Knicks,2023,,3.0,Forward-Guard
+1228,New York Knicks,2024,,8.0,Forward
+1229,New York Knicks,2024,,23.0,Forward
+1230,New York Knicks,2025,,19.0,Center-Forward
+1231,New York Knicks,2025,,21.0,Guard
+1232,New York Knicks,2025,,32.0,Forward
+1233,New York Knicks,2025,,58.0,Center
+1234,New York Knicks,2026,,42.0,Guard
+1235,Oklahoma City Thunder,2008,23.0,61.0,Nothing
+1236,Oklahoma City Thunder,2009,50.0,61.0,Nothing
+1237,Oklahoma City Thunder,2010,55.0,61.0,Nothing
+1238,Oklahoma City Thunder,2011,47.0,61.0,Nothing
+1239,Oklahoma City Thunder,2012,,32.0,Forward
+1240,Oklahoma City Thunder,2012,,56.0,Center
+1241,Oklahoma City Thunder,2013,59.0,3.0,Guard
+1242,Oklahoma City Thunder,2013,59.0,25.0,Guard
+1243,Oklahoma City Thunder,2014,45.0,18.0,Guard
+1244,Oklahoma City Thunder,2014,45.0,21.0,Forward
+1245,Oklahoma City Thunder,2014,45.0,51.0,Forward
+1246,Oklahoma City Thunder,2015,55.0,24.0,Guard
+1247,Oklahoma City Thunder,2016,47.0,28.0,Forward
+1248,Oklahoma City Thunder,2017,48.0,12.0,Center
+1249,Oklahoma City Thunder,2017,48.0,29.0,Guard
+1250,Oklahoma City Thunder,2017,48.0,32.0,Guard
+1251,Oklahoma City Thunder,2018,49.0,61.0,Nothing
+1252,Oklahoma City Thunder,2019,44.0,14.0,Guard
+1253,Oklahoma City Thunder,2019,44.0,48.0,Center
+1254,Oklahoma City Thunder,2020,22.0,11.0,Forward-Center
+1255,Oklahoma City Thunder,2021,24.0,21.0,Guard
+1256,Oklahoma City Thunder,2022,40.0,57.0,Forward
+1257,Oklahoma City Thunder,2023,,21.0,Forward
+1258,Oklahoma City Thunder,2024,,25.0,Guard
+1259,Oklahoma City Thunder,2024,,53.0,Guard
+1260,Oklahoma City Thunder,2025,,6.0,Guard
+1261,Oklahoma City Thunder,2025,,16.0,Center
+1262,Oklahoma City Thunder,2025,,18.0,Guard
+1263,Oklahoma City Thunder,2025,,36.0,Guard
+1264,Oklahoma City Thunder,2025,,55.0,Guard
+1265,Oklahoma City Thunder,2026,,2.0,Center-Forward
+1266,Oklahoma City Thunder,2026,,12.0,Guard-Forward
+1267,Oklahoma City Thunder,2026,,30.0,Guard
+1268,Orlando Magic,1989,18.0,61.0,Nothing
+1269,Orlando Magic,1990,31.0,61.0,Nothing
+1270,Orlando Magic,1991,21.0,61.0,Nothing
+1271,Orlando Magic,1992,41.0,61.0,Nothing
+1272,Orlando Magic,1993,50.0,11.0,Forward-Guard
+1273,Orlando Magic,1993,50.0,37.0,Forward
+1274,Orlando Magic,1994,57.0,4.0,Forward
+1275,Orlando Magic,1995,60.0,10.0,Center-Forward
+1276,Orlando Magic,1995,60.0,23.0,Center
+1277,Orlando Magic,1995,60.0,36.0,Guard
+1278,Orlando Magic,1996,45.0,1.0,Center
+1279,Orlando Magic,1997,41.0,1.0,Forward-Center
+1280,Orlando Magic,1997,41.0,26.0,Forward-Center
+1281,Orlando Magic,1998,33.0,27.0,Guard
+1282,Orlando Magic,1999,41.0,25.0,Forward
+1283,Orlando Magic,2000,43.0,49.0,Center
+1284,Orlando Magic,2001,44.0,17.0,Forward
+1285,Orlando Magic,2002,42.0,12.0,Center
+1286,Orlando Magic,2002,42.0,13.0,Center-Forward
+1287,Orlando Magic,2002,42.0,15.0,Forward
+1288,Orlando Magic,2002,42.0,42.0,Guard
+1289,Orlando Magic,2003,21.0,38.0,Guard-Forward
+1290,Orlando Magic,2004,36.0,5.0,Guard-Forward
+1291,Orlando Magic,2004,36.0,10.0,Guard
+1292,Orlando Magic,2005,36.0,15.0,Center
+1293,Orlando Magic,2005,36.0,22.0,Guard
+1294,Orlando Magic,2006,40.0,61.0,Nothing
+1295,Orlando Magic,2007,52.0,15.0,Guard
+1296,Orlando Magic,2007,52.0,42.0,Center
+1297,Orlando Magic,2008,59.0,1.0,Center-Forward
+1298,Orlando Magic,2008,59.0,30.0,Forward
+1299,Orlando Magic,2008,59.0,36.0,Guard
+1300,Orlando Magic,2009,59.0,38.0,Guard
+1301,Orlando Magic,2009,59.0,44.0,Center
+1302,Orlando Magic,2010,52.0,41.0,Forward
+1303,Orlando Magic,2011,37.0,61.0,Nothing
+1304,Orlando Magic,2012,,22.0,Guard
+1305,Orlando Magic,2013,23.0,61.0,Nothing
+1306,Orlando Magic,2014,25.0,29.0,Center
+1307,Orlando Magic,2015,35.0,53.0,Guard
+1308,Orlando Magic,2016,29.0,19.0,Forward
+1309,Orlando Magic,2016,29.0,49.0,Center-Forward
+1310,Orlando Magic,2017,25.0,2.0,Guard
+1311,Orlando Magic,2018,42.0,61.0,Nothing
+1312,Orlando Magic,2019,33.0,5.0,Forward-Guard
+1313,Orlando Magic,2020,21.0,41.0,Center
+1314,Orlando Magic,2020,21.0,47.0,Forward
+1315,Orlando Magic,2021,22.0,6.0,Forward
+1316,Orlando Magic,2021,22.0,25.0,Center-Forward
+1317,Orlando Magic,2021,22.0,33.0,Forward
+1318,Orlando Magic,2022,34.0,35.0,Guard-Forward
+1319,Orlando Magic,2022,34.0,41.0,Forward
+1320,Orlando Magic,2023,,46.0,Guard
+1321,Orlando Magic,2024,,15.0,Guard
+1322,Orlando Magic,2025,,5.0,Guard
+1323,Orlando Magic,2025,,33.0,Guard
+1324,Orlando Magic,2026,,1.0,Forward
+1325,Orlando Magic,2026,,32.0,Guard
+1326,Philadelphia 76ers,1989,53.0,21.0,Forward
+1327,Philadelphia 76ers,1989,53.0,33.0,Forward
+1328,Philadelphia 76ers,1989,53.0,44.0,Forward
+1329,Philadelphia 76ers,1989,53.0,90.0,Forward
+1330,Philadelphia 76ers,1990,44.0,44.0,Guard-Forward
+1331,Philadelphia 76ers,1990,44.0,67.0,Forward
+1332,Philadelphia 76ers,1991,35.0,16.0,Center
+1333,Philadelphia 76ers,1991,35.0,39.0,Guard
+1334,Philadelphia 76ers,1992,26.0,3.0,Forward
+1335,Philadelphia 76ers,1992,26.0,3.0,Guard
+1336,Philadelphia 76ers,1992,26.0,3.0,Forward
+1337,Philadelphia 76ers,1993,25.0,19.0,Forward
+1338,Philadelphia 76ers,1994,24.0,32.0,Guard
+1339,Philadelphia 76ers,1994,24.0,47.0,Forward
+1340,Philadelphia 76ers,1995,18.0,61.0,Nothing
+1341,Philadelphia 76ers,1996,22.0,9.0,Forward
+1342,Philadelphia 76ers,1997,31.0,2.0,Center
+1343,Philadelphia 76ers,1998,28.0,6.0,Center
+1344,Philadelphia 76ers,1998,28.0,20.0,Guard
+1345,Philadelphia 76ers,1998,28.0,33.0,Center
+1346,Philadelphia 76ers,1999,49.0,3.0,Forward
+1347,Philadelphia 76ers,2000,56.0,1.0,Guard
+1348,Philadelphia 76ers,2000,56.0,31.0,Forward
+1349,Philadelphia 76ers,2000,56.0,48.0,Forward
+1350,Philadelphia 76ers,2001,43.0,2.0,Forward
+1351,Philadelphia 76ers,2001,43.0,35.0,Forward
+1352,Philadelphia 76ers,2001,43.0,36.0,Guard
+1353,Philadelphia 76ers,2002,48.0,8.0,Guard
+1354,Philadelphia 76ers,2002,48.0,37.0,Center
+1355,Philadelphia 76ers,2003,33.0,47.0,Center
+1356,Philadelphia 76ers,2004,43.0,20.0,Guard
+1357,Philadelphia 76ers,2005,38.0,26.0,Center
+1358,Philadelphia 76ers,2005,38.0,56.0,Center
+1359,Philadelphia 76ers,2006,35.0,16.0,Forward
+1360,Philadelphia 76ers,2007,40.0,61.0,Nothing
+1361,Philadelphia 76ers,2008,41.0,61.0,Nothing
+1362,Philadelphia 76ers,2009,27.0,45.0,Guard
+1363,Philadelphia 76ers,2010,41.0,61.0,Nothing
+1364,Philadelphia 76ers,2011,35.0,12.0,Forward
+1365,Philadelphia 76ers,2011,35.0,21.0,Guard
+1366,Philadelphia 76ers,2011,35.0,38.0,Center
+1367,Philadelphia 76ers,2012,,16.0,Forward-Center
+1368,Philadelphia 76ers,2013,19.0,17.0,Guard
+1369,Philadelphia 76ers,2014,18.0,2.0,Guard-Forward
+1370,Philadelphia 76ers,2015,10.0,16.0,Center
+1371,Philadelphia 76ers,2015,10.0,50.0,Forward-Center
+1372,Philadelphia 76ers,2016,28.0,45.0,Center
+1373,Philadelphia 76ers,2016,28.0,54.0,Forward
+1374,Philadelphia 76ers,2017,52.0,11.0,Guard
+1375,Philadelphia 76ers,2017,52.0,35.0,Forward-Guard
+1376,Philadelphia 76ers,2017,52.0,35.0,Guard-Forward
+1377,Philadelphia 76ers,2017,52.0,42.0,Guard
+1378,Philadelphia 76ers,2018,51.0,61.0,Nothing
+1379,Philadelphia 76ers,2019,43.0,3.0,Center-Forward
+1380,Philadelphia 76ers,2019,43.0,35.0,Center-Forward
+1381,Philadelphia 76ers,2019,43.0,37.0,Forward
+1382,Philadelphia 76ers,2020,49.0,1.0,Guard-Forward
+1383,Philadelphia 76ers,2020,49.0,24.0,Guard-Forward
+1384,Philadelphia 76ers,2020,49.0,26.0,Guard-Forward
+1385,Philadelphia 76ers,2021,51.0,1.0,Guard
+1386,Philadelphia 76ers,2021,51.0,36.0,Forward
+1387,Philadelphia 76ers,2021,51.0,46.0,Guard-Forward
+1388,Philadelphia 76ers,2022,54.0,10.0,Guard-Forward
+1389,Philadelphia 76ers,2022,54.0,26.0,Guard
+1390,Philadelphia 76ers,2022,54.0,39.0,Guard
+1391,Philadelphia 76ers,2022,54.0,56.0,Forward
+1392,Philadelphia 76ers,2022,54.0,60.0,Forward
+1393,Philadelphia 76ers,2023,,24.0,Guard-Forward
+1394,Philadelphia 76ers,2023,,33.0,Guard
+1395,Philadelphia 76ers,2023,,34.0,Forward-Center
+1396,Philadelphia 76ers,2023,,42.0,Forward
+1397,Philadelphia 76ers,2023,,54.0,Guard-Forward
+1398,Philadelphia 76ers,2024,,34.0,Guard
+1399,Philadelphia 76ers,2024,,36.0,Forward
+1400,Philadelphia 76ers,2025,,28.0,Guard
+1401,Philadelphia 76ers,2025,,53.0,Center-Forward
+1402,Philadelphia 76ers,2026,,23.0,Forward
+1403,Phoenix Suns,1989,54.0,10.0,Forward
+1404,Phoenix Suns,1989,54.0,32.0,Center
+1405,Phoenix Suns,1989,54.0,148.0,Forward
+1406,Phoenix Suns,1990,55.0,39.0,Forward
+1407,Phoenix Suns,1990,55.0,77.0,Guard
+1408,Phoenix Suns,1991,53.0,2.0,Forward
+1409,Phoenix Suns,1991,53.0,53.0,Forward
+1410,Phoenix Suns,1992,62.0,7.0,Forward
+1411,Phoenix Suns,1992,62.0,14.0,Guard-Forward
+1412,Phoenix Suns,1992,62.0,28.0,Center
+1413,Phoenix Suns,1992,62.0,38.0,Center
+1414,Phoenix Suns,1993,56.0,46.0,Forward
+1415,Phoenix Suns,1993,56.0,51.0,Guard
+1416,Phoenix Suns,1993,56.0,52.0,Guard
+1417,Phoenix Suns,1994,59.0,21.0,Forward
+1418,Phoenix Suns,1994,59.0,31.0,Guard
+1419,Phoenix Suns,1994,59.0,50.0,Center
+1420,Phoenix Suns,1995,41.0,32.0,Center
+1421,Phoenix Suns,1996,40.0,22.0,Center
+1422,Phoenix Suns,1996,40.0,48.0,Forward
+1423,Phoenix Suns,1997,56.0,27.0,Forward
+1424,Phoenix Suns,1998,27.0,23.0,Guard-Forward
+1425,Phoenix Suns,1998,27.0,29.0,Forward
+1426,Phoenix Suns,1998,27.0,50.0,Center
+1427,Phoenix Suns,1998,27.0,52.0,Guard
+1428,Phoenix Suns,1999,53.0,21.0,Guard-Forward
+1429,Phoenix Suns,1999,53.0,27.0,Center-Forward
+1430,Phoenix Suns,1999,53.0,56.0,Guard
+1431,Phoenix Suns,2000,51.0,15.0,Guard
+1432,Phoenix Suns,2000,51.0,43.0,Forward
+1433,Phoenix Suns,2001,36.0,42.0,Guard-Forward
+1434,Phoenix Suns,2002,44.0,61.0,Nothing
+1435,Phoenix Suns,2003,29.0,9.0,Guard-Forward
+1436,Phoenix Suns,2004,62.0,25.0,Center
+1437,Phoenix Suns,2005,54.0,50.0,Forward
+1438,Phoenix Suns,2006,61.0,9.0,Forward-Center
+1439,Phoenix Suns,2006,61.0,22.0,Guard
+1440,Phoenix Suns,2007,55.0,17.0,Forward-Center
+1441,Phoenix Suns,2008,46.0,7.0,Forward
+1442,Phoenix Suns,2009,54.0,21.0,Guard
+1443,Phoenix Suns,2009,54.0,57.0,Center
+1444,Phoenix Suns,2010,40.0,21.0,Guard
+1445,Phoenix Suns,2010,40.0,27.0,Guard
+1446,Phoenix Suns,2011,33.0,24.0,other
+1447,Phoenix Suns,2011,33.0,29.0,Forward
+1448,Phoenix Suns,2011,33.0,59.0,Guard
+1449,Phoenix Suns,2012,,15.0,Center
+1450,Phoenix Suns,2012,,48.0,Guard
+1451,Phoenix Suns,2013,48.0,61.0,Nothing
+1452,Phoenix Suns,2014,39.0,46.0,Forward
+1453,Phoenix Suns,2015,23.0,13.0,Forward
+1454,Phoenix Suns,2016,24.0,13.0,Guard
+1455,Phoenix Suns,2017,21.0,5.0,Center
+1456,Phoenix Suns,2018,19.0,61.0,Nothing
+1457,Phoenix Suns,2019,34.0,13.0,Guard
+1458,Phoenix Suns,2019,34.0,44.0,Guard
+1459,Phoenix Suns,2020,51.0,4.0,Forward
+1460,Phoenix Suns,2020,51.0,8.0,Forward
+1461,Phoenix Suns,2020,51.0,34.0,Guard
+1462,Phoenix Suns,2021,64.0,4.0,Guard-Forward
+1463,Phoenix Suns,2021,64.0,32.0,Guard
+1464,Phoenix Suns,2021,64.0,54.0,Forward
+1465,Phoenix Suns,2022,45.0,1.0,Center
+1466,Phoenix Suns,2022,45.0,16.0,Guard
+1467,Phoenix Suns,2022,45.0,31.0,Forward-Guard
+1468,Phoenix Suns,2022,45.0,59.0,Guard
+1469,Phoenix Suns,2022,45.0,59.0,Forward-Guard
+1470,Phoenix Suns,2023,,6.0,Guard-Forward
+1471,Phoenix Suns,2023,,32.0,Forward-Guard
+1472,Phoenix Suns,2024,,10.0,Forward-Center
+1473,Portland Trail Blazers,1989,59.0,24.0,Guard
+1474,Portland Trail Blazers,1989,59.0,25.0,Center
+1475,Portland Trail Blazers,1989,59.0,61.0,Nothing
+1476,Portland Trail Blazers,1989,59.0,107.0,Guard-Forward
+1477,Portland Trail Blazers,1990,63.0,14.0,Forward
+1478,Portland Trail Blazers,1990,63.0,24.0,Center
+1479,Portland Trail Blazers,1990,63.0,60.0,Guard
+1480,Portland Trail Blazers,1991,57.0,17.0,Forward
+1481,Portland Trail Blazers,1991,57.0,30.0,Forward
+1482,Portland Trail Blazers,1991,57.0,63.0,Forward
+1483,Portland Trail Blazers,1992,51.0,21.0,Forward
+1484,Portland Trail Blazers,1992,51.0,26.0,Forward
+1485,Portland Trail Blazers,1992,51.0,53.0,Forward
+1486,Portland Trail Blazers,1992,51.0,71.0,Guard
+1487,Portland Trail Blazers,1993,47.0,22.0,Guard
+1488,Portland Trail Blazers,1993,47.0,36.0,Forward-Center
+1489,Portland Trail Blazers,1994,44.0,25.0,Forward
+1490,Portland Trail Blazers,1995,44.0,61.0,Nothing
+1491,Portland Trail Blazers,1996,49.0,61.0,Nothing
+1492,Portland Trail Blazers,1997,46.0,21.0,Guard
+1493,Portland Trail Blazers,1997,46.0,48.0,Center
+1494,Portland Trail Blazers,1998,35.0,17.0,Guard
+1495,Portland Trail Blazers,1998,35.0,43.0,Center
+1496,Portland Trail Blazers,1999,59.0,8.0,Guard
+1497,Portland Trail Blazers,2000,50.0,17.0,Center-Forward
+1498,Portland Trail Blazers,2000,50.0,46.0,other
+1499,Portland Trail Blazers,2001,49.0,18.0,Center
+1500,Portland Trail Blazers,2001,49.0,47.0,Guard
+1501,Portland Trail Blazers,2002,50.0,61.0,Nothing
+1502,Portland Trail Blazers,2003,41.0,61.0,Nothing
+1503,Portland Trail Blazers,2004,27.0,28.0,Guard
+1504,Portland Trail Blazers,2005,21.0,19.0,Forward
+1505,Portland Trail Blazers,2005,21.0,49.0,Center
+1506,Portland Trail Blazers,2006,32.0,21.0,Forward-Guard
+1507,Portland Trail Blazers,2007,41.0,61.0,Nothing
+1508,Portland Trail Blazers,2008,54.0,13.0,Guard
+1509,Portland Trail Blazers,2009,50.0,6.0,Forward-Guard
+1510,Portland Trail Blazers,2009,50.0,27.0,Forward
+1511,Portland Trail Blazers,2010,48.0,4.0,Forward
+1512,Portland Trail Blazers,2010,48.0,30.0,Center-Forward
+1513,Portland Trail Blazers,2010,48.0,31.0,Guard-Forward
+1514,Portland Trail Blazers,2011,28.0,1.0,Center
+1515,Portland Trail Blazers,2011,28.0,42.0,Guard-Forward
+1516,Portland Trail Blazers,2011,28.0,52.0,Guard
+1517,Portland Trail Blazers,2012,,13.0,Guard-Forward
+1518,Portland Trail Blazers,2012,,36.0,Center
+1519,Portland Trail Blazers,2012,,55.0,Guard
+1520,Portland Trail Blazers,2013,54.0,33.0,Forward
+1521,Portland Trail Blazers,2013,54.0,38.0,Forward
+1522,Portland Trail Blazers,2014,51.0,22.0,Guard
+1523,Portland Trail Blazers,2014,51.0,34.0,Guard
+1524,Portland Trail Blazers,2015,44.0,21.0,Guard
+1525,Portland Trail Blazers,2016,41.0,6.0,Guard
+1526,Portland Trail Blazers,2016,41.0,11.0,Forward-Center
+1527,Portland Trail Blazers,2016,41.0,40.0,Guard
+1528,Portland Trail Blazers,2016,41.0,41.0,Guard
+1529,Portland Trail Blazers,2017,49.0,39.0,Center
+1530,Portland Trail Blazers,2018,53.0,61.0,Nothing
+1531,Portland Trail Blazers,2019,35.0,61.0,Nothing
+1532,Portland Trail Blazers,2020,42.0,61.0,Nothing
+1533,Portland Trail Blazers,2021,27.0,20.0,Forward-Center
+1534,Portland Trail Blazers,2021,27.0,26.0,Forward
+1535,Portland Trail Blazers,2022,33.0,24.0,Guard
+1536,Portland Trail Blazers,2023,,25.0,Forward-Guard
+1537,Portland Trail Blazers,2024,,16.0,Forward-Center
+1538,Portland Trail Blazers,2024,,46.0,Forward-Guard
+1539,Portland Trail Blazers,2026,,7.0,Guard
+1540,Sacramento Kings,1989,23.0,6.0,Center
+1541,Sacramento Kings,1989,23.0,51.0,Guard
+1542,Sacramento Kings,1989,23.0,66.0,Guard
+1543,Sacramento Kings,1990,25.0,17.0,Forward
+1544,Sacramento Kings,1990,25.0,34.0,Forward
+1545,Sacramento Kings,1990,25.0,57.0,Guard
+1546,Sacramento Kings,1991,29.0,6.0,Guard
+1547,Sacramento Kings,1991,29.0,74.0,Forward
+1548,Sacramento Kings,1992,25.0,18.0,Forward
+1549,Sacramento Kings,1993,28.0,1.0,Center
+1550,Sacramento Kings,1994,39.0,7.0,Forward
+1551,Sacramento Kings,1994,39.0,14.0,Guard
+1552,Sacramento Kings,1994,39.0,18.0,Center
+1553,Sacramento Kings,1994,39.0,23.0,Forward
+1554,Sacramento Kings,1994,39.0,40.0,Guard
+1555,Sacramento Kings,1995,39.0,3.0,Forward-Guard
+1556,Sacramento Kings,1995,39.0,31.0,Guard
+1557,Sacramento Kings,1996,34.0,7.0,Forward-Guard
+1558,Sacramento Kings,1997,27.0,7.0,Guard
+1559,Sacramento Kings,1997,27.0,31.0,Forward
+1560,Sacramento Kings,1997,27.0,52.0,Center
+1561,Sacramento Kings,1998,27.0,8.0,Forward-Center
+1562,Sacramento Kings,1998,27.0,35.0,Forward
+1563,Sacramento Kings,1998,27.0,35.0,Guard
+1564,Sacramento Kings,1998,27.0,51.0,Forward
+1565,Sacramento Kings,1999,44.0,13.0,Forward
+1566,Sacramento Kings,1999,44.0,47.0,Guard
+1567,Sacramento Kings,2000,55.0,14.0,Forward
+1568,Sacramento Kings,2000,55.0,41.0,Forward
+1569,Sacramento Kings,2001,61.0,11.0,Forward-Guard
+1570,Sacramento Kings,2001,61.0,39.0,Guard
+1571,Sacramento Kings,2002,59.0,7.0,Guard
+1572,Sacramento Kings,2003,55.0,45.0,Guard
+1573,Sacramento Kings,2004,50.0,16.0,Forward
+1574,Sacramento Kings,2004,50.0,45.0,Center
+1575,Sacramento Kings,2005,44.0,25.0,Forward
+1576,Sacramento Kings,2006,33.0,28.0,Guard
+1577,Sacramento Kings,2006,33.0,57.0,Forward
+1578,Sacramento Kings,2007,38.0,61.0,Nothing
+1579,Sacramento Kings,2008,17.0,26.0,Guard
+1580,Sacramento Kings,2009,25.0,23.0,Guard-Forward
+1581,Sacramento Kings,2010,24.0,19.0,Guard
+1582,Sacramento Kings,2011,22.0,10.0,Forward-Center
+1583,Sacramento Kings,2012,,12.0,Forward-Center
+1584,Sacramento Kings,2012,,42.0,Guard
+1585,Sacramento Kings,2012,,43.0,Forward
+1586,Sacramento Kings,2013,28.0,4.0,Guard
+1587,Sacramento Kings,2013,28.0,23.0,Forward
+1588,Sacramento Kings,2013,28.0,31.0,Forward-Center
+1589,Sacramento Kings,2014,29.0,5.0,Center
+1590,Sacramento Kings,2014,29.0,33.0,Center
+1591,Sacramento Kings,2015,33.0,7.0,Center
+1592,Sacramento Kings,2015,33.0,35.0,Forward
+1593,Sacramento Kings,2015,33.0,60.0,Guard
+1594,Sacramento Kings,2016,32.0,5.0,Forward
+1595,Sacramento Kings,2017,27.0,7.0,Guard
+1596,Sacramento Kings,2017,27.0,36.0,Guard
+1597,Sacramento Kings,2018,39.0,61.0,Nothing
+1598,Sacramento Kings,2019,31.0,6.0,Center
+1599,Sacramento Kings,2020,31.0,13.0,Center
+1600,Sacramento Kings,2020,31.0,28.0,Forward-Center
+1601,Sacramento Kings,2021,30.0,5.0,Guard
+1602,Sacramento Kings,2021,30.0,10.0,Forward-Center
+1603,Sacramento Kings,2021,30.0,34.0,Guard
+1604,Sacramento Kings,2022,48.0,2.0,Forward
+1605,Sacramento Kings,2023,,40.0,Guard-Forward
+1606,Sacramento Kings,2023,,47.0,Forward
+1607,Sacramento Kings,2024,,12.0,Guard
+1608,Sacramento Kings,2024,,35.0,Forward
+1609,Sacramento Kings,2024,,43.0,Guard
+1610,Sacramento Kings,2024,,52.0,Forward
+1611,Sacramento Kings,2025,,9.0,Guard
+1612,Sacramento Kings,2025,,39.0,Center
+1613,Sacramento Kings,2025,,40.0,Guard
+1614,Sacramento Kings,2026,,4.0,Forward
+1615,Sacramento Kings,2026,,37.0,Guard
+1616,San Antonio Spurs,1989,56.0,14.0,Forward
+1617,San Antonio Spurs,1989,56.0,29.0,Center
+1618,San Antonio Spurs,1989,56.0,35.0,Forward
+1619,San Antonio Spurs,1989,56.0,82.0,Forward
+1620,San Antonio Spurs,1990,55.0,10.0,Guard
+1621,San Antonio Spurs,1990,55.0,33.0,Center
+1622,San Antonio Spurs,1990,55.0,48.0,Forward
+1623,San Antonio Spurs,1990,55.0,148.0,Guard
+1624,San Antonio Spurs,1991,47.0,1.0,Center
+1625,San Antonio Spurs,1991,47.0,23.0,Center-Forward
+1626,San Antonio Spurs,1991,47.0,27.0,Guard
+1627,San Antonio Spurs,1991,47.0,50.0,Forward
+1628,San Antonio Spurs,1992,49.0,10.0,Guard-Forward
+1629,San Antonio Spurs,1992,49.0,27.0,Forward
+1630,San Antonio Spurs,1992,49.0,56.0,Forward
+1631,San Antonio Spurs,1993,55.0,3.0,Forward
+1632,San Antonio Spurs,1994,62.0,24.0,Center
+1633,San Antonio Spurs,1994,62.0,43.0,Forward-Center
+1634,San Antonio Spurs,1994,62.0,54.0,Forward
+1635,San Antonio Spurs,1995,59.0,49.0,Guard
+1636,San Antonio Spurs,1996,20.0,18.0,Forward
+1637,San Antonio Spurs,1997,56.0,47.0,Guard
+1638,San Antonio Spurs,1998,37.0,22.0,Forward
+1639,San Antonio Spurs,1999,53.0,29.0,Guard
+1640,San Antonio Spurs,2000,58.0,61.0,Nothing
+1641,San Antonio Spurs,2001,58.0,1.0,Center-Forward
+1642,San Antonio Spurs,2002,60.0,24.0,Guard-Forward
+1643,San Antonio Spurs,2003,57.0,29.0,Forward
+1644,San Antonio Spurs,2003,57.0,57.0,Guard
+1645,San Antonio Spurs,2004,59.0,61.0,Nothing
+1646,San Antonio Spurs,2005,63.0,28.0,Guard
+1647,San Antonio Spurs,2006,58.0,26.0,Forward
+1648,San Antonio Spurs,2006,58.0,55.0,Forward
+1649,San Antonio Spurs,2007,56.0,61.0,Nothing
+1650,San Antonio Spurs,2008,54.0,28.0,Guard
+1651,San Antonio Spurs,2009,50.0,28.0,Center
+1652,San Antonio Spurs,2010,61.0,59.0,Forward
+1653,San Antonio Spurs,2011,50.0,28.0,Center-Forward
+1654,San Antonio Spurs,2011,50.0,33.0,Guard
+1655,San Antonio Spurs,2011,50.0,33.0,Guard
+1656,San Antonio Spurs,2012,,26.0,Guard
+1657,San Antonio Spurs,2012,,45.0,Guard
+1658,San Antonio Spurs,2013,62.0,37.0,Center-Forward
+1659,San Antonio Spurs,2014,55.0,20.0,Guard-Forward
+1660,San Antonio Spurs,2015,67.0,29.0,Guard
+1661,San Antonio Spurs,2016,61.0,61.0,Nothing
+1662,San Antonio Spurs,2017,47.0,61.0,Nothing
+1663,San Antonio Spurs,2018,48.0,61.0,Nothing
+1664,San Antonio Spurs,2019,32.0,61.0,Nothing
+1665,San Antonio Spurs,2020,33.0,29.0,Guard
+1666,San Antonio Spurs,2021,34.0,29.0,Guard
+1667,San Antonio Spurs,2021,34.0,59.0,Forward
+1668,San Antonio Spurs,2022,22.0,18.0,Guard-Forward
+1669,San Antonio Spurs,2023,,19.0,Forward
+1670,San Antonio Spurs,2024,,41.0,Guard
+1671,San Antonio Spurs,2025,,12.0,Guard
+1672,San Antonio Spurs,2025,,41.0,Guard-Forward
+1673,San Antonio Spurs,2026,,9.0,Forward
+1674,San Antonio Spurs,2026,,20.0,Forward
+1675,San Antonio Spurs,2026,,25.0,Guard
+1676,San Antonio Spurs,2026,,38.0,Guard
+1677,Seattle SuperSonics,1989,41.0,4.0,Forward
+1678,Seattle SuperSonics,1989,41.0,75.0,Forward
+1679,Seattle SuperSonics,1989,41.0,144.0,Guard
+1680,Seattle SuperSonics,1990,41.0,30.0,Guard-Forward
+1681,Seattle SuperSonics,1990,41.0,53.0,Center
+1682,Seattle SuperSonics,1991,47.0,5.0,Forward-Guard
+1683,Seattle SuperSonics,1991,47.0,9.0,Forward
+1684,Seattle SuperSonics,1992,55.0,65.0,Guard
+1685,Seattle SuperSonics,1993,63.0,16.0,Guard
+1686,Seattle SuperSonics,1993,63.0,17.0,Forward
+1687,Seattle SuperSonics,1994,57.0,2.0,Guard
+1688,Seattle SuperSonics,1994,57.0,38.0,Guard-Forward
+1689,Seattle SuperSonics,1995,64.0,14.0,Center
+1690,Seattle SuperSonics,1996,57.0,17.0,Guard-Forward
+1691,Seattle SuperSonics,1996,57.0,45.0,Forward
+1692,Seattle SuperSonics,1997,61.0,42.0,Guard
+1693,Seattle SuperSonics,1998,25.0,37.0,Forward
+1694,Seattle SuperSonics,1998,25.0,54.0,Center
+1695,Seattle SuperSonics,1999,45.0,26.0,Forward
+1696,Seattle SuperSonics,2000,44.0,47.0,Forward
+1697,Seattle SuperSonics,2000,44.0,57.0,Guard
+1698,Seattle SuperSonics,2001,45.0,23.0,Guard
+1699,Seattle SuperSonics,2001,45.0,54.0,Center-Forward
+1700,Seattle SuperSonics,2002,40.0,32.0,Forward
+1701,Seattle SuperSonics,2002,40.0,33.0,Forward-Center
+1702,Seattle SuperSonics,2003,37.0,13.0,Forward
+1703,Seattle SuperSonics,2004,52.0,17.0,Guard
+1704,Seattle SuperSonics,2005,35.0,12.0,Forward
+1705,Seattle SuperSonics,2005,35.0,39.0,Guard
+1706,Seattle SuperSonics,2005,35.0,41.0,Forward
+1707,Seattle SuperSonics,2006,31.0,61.0,Nothing
+1708,Seattle SuperSonics,2007,20.0,12.0,Forward-Center
+1709,Seattle SuperSonics,2007,20.0,14.0,Guard
+1710,Seattle SuperSonics,2007,20.0,41.0,Guard
+1711,Seattle SuperSonics,2008,,12.0,Center
+1712,Seattle SuperSonics,2008,,35.0,Guard
+1713,Seattle SuperSonics,2009,,25.0,Center
+1714,Seattle SuperSonics,2009,,48.0,Forward
+1715,Seattle SuperSonics,2009,,55.0,Forward
+1716,Seattle SuperSonics,2011,,2.0,Forward
+1717,Seattle SuperSonics,2011,,31.0,Forward
+1718,Seattle SuperSonics,2011,,35.0,Forward-Center
+1719,Toronto Raptors,1995,21.0,61.0,Nothing
+1720,Toronto Raptors,1996,30.0,61.0,Nothing
+1721,Toronto Raptors,1997,16.0,61.0,Nothing
+1722,Toronto Raptors,1998,23.0,61.0,Nothing
+1723,Toronto Raptors,1999,45.0,35.0,Guard
+1724,Toronto Raptors,2000,47.0,2.0,Center-Forward
+1725,Toronto Raptors,2001,42.0,61.0,Nothing
+1726,Toronto Raptors,2002,24.0,47.0,Guard
+1727,Toronto Raptors,2003,33.0,5.0,Forward
+1728,Toronto Raptors,2003,33.0,12.0,Center
+1729,Toronto Raptors,2004,33.0,61.0,Nothing
+1730,Toronto Raptors,2005,27.0,17.0,Forward
+1731,Toronto Raptors,2006,47.0,20.0,Guard
+1732,Toronto Raptors,2007,41.0,4.0,Forward
+1733,Toronto Raptors,2008,33.0,8.0,Center
+1734,Toronto Raptors,2009,40.0,7.0,Forward
+1735,Toronto Raptors,2009,40.0,16.0,Forward
+1736,Toronto Raptors,2009,40.0,41.0,Guard
+1737,Toronto Raptors,2009,40.0,58.0,Forward
+1738,Toronto Raptors,2010,22.0,35.0,Forward
+1739,Toronto Raptors,2011,23.0,61.0,Nothing
+1740,Toronto Raptors,2013,48.0,9.0,Guard-Forward
+1741,Toronto Raptors,2014,49.0,61.0,Nothing
+1742,Toronto Raptors,2015,56.0,5.0,Center
+1743,Toronto Raptors,2016,51.0,8.0,Guard-Forward
+1744,Toronto Raptors,2016,51.0,37.0,Forward
+1745,Toronto Raptors,2017,59.0,61.0,Nothing
+1746,Toronto Raptors,2018,58.0,61.0,Nothing
+1747,Toronto Raptors,2019,53.0,20.0,Guard
+1748,Toronto Raptors,2020,27.0,9.0,Center
+1749,Toronto Raptors,2020,27.0,27.0,Forward
+1750,Toronto Raptors,2021,48.0,23.0,Forward
+1751,Toronto Raptors,2022,41.0,61.0,Nothing
+1752,Toronto Raptors,2023,,59.0,Center-Forward
+1753,Toronto Raptors,2024,,59.0,Guard
+1754,Toronto Raptors,2025,,4.0,Forward
+1755,Toronto Raptors,2025,,46.0,Forward
+1756,Toronto Raptors,2025,,47.0,Guard
+1757,Toronto Raptors,2026,,33.0,Center
+1758,Utah Jazz,1989,55.0,13.0,Forward
+1759,Utah Jazz,1989,55.0,37.0,Forward
+1760,Utah Jazz,1989,55.0,83.0,Guard
+1761,Utah Jazz,1990,54.0,15.0,Guard-Forward
+1762,Utah Jazz,1990,54.0,61.0,Nothing
+1763,Utah Jazz,1991,55.0,15.0,Forward
+1764,Utah Jazz,1991,55.0,107.0,Forward
+1765,Utah Jazz,1992,47.0,17.0,Center
+1766,Utah Jazz,1993,53.0,21.0,Forward
+1767,Utah Jazz,1994,60.0,33.0,Center
+1768,Utah Jazz,1995,55.0,48.0,Center
+1769,Utah Jazz,1996,64.0,61.0,Nothing
+1770,Utah Jazz,1997,62.0,18.0,Center
+1771,Utah Jazz,1997,62.0,45.0,Guard-Forward
+1772,Utah Jazz,1998,37.0,47.0,Forward
+1773,Utah Jazz,1999,55.0,28.0,Center
+1774,Utah Jazz,2000,53.0,25.0,Forward
+1775,Utah Jazz,2000,53.0,54.0,Guard-Forward
+1776,Utah Jazz,2001,44.0,27.0,Guard
+1777,Utah Jazz,2002,47.0,57.0,Forward
+1778,Utah Jazz,2003,42.0,19.0,Guard-Forward
+1779,Utah Jazz,2003,42.0,24.0,Forward
+1780,Utah Jazz,2003,42.0,28.0,Forward
+1781,Utah Jazz,2004,26.0,23.0,Forward-Guard
+1782,Utah Jazz,2005,41.0,24.0,Guard
+1783,Utah Jazz,2005,41.0,52.0,Center
+1784,Utah Jazz,2006,51.0,19.0,Forward
+1785,Utah Jazz,2006,51.0,46.0,Forward-Center
+1786,Utah Jazz,2007,54.0,47.0,Guard
+1787,Utah Jazz,2008,48.0,14.0,Forward
+1788,Utah Jazz,2008,48.0,16.0,Forward-Guard
+1789,Utah Jazz,2008,48.0,21.0,Center
+1790,Utah Jazz,2009,53.0,3.0,Guard
+1791,Utah Jazz,2009,53.0,34.0,Guard
+1792,Utah Jazz,2009,53.0,51.0,Center
+1793,Utah Jazz,2010,39.0,14.0,Forward
+1794,Utah Jazz,2010,39.0,46.0,Guard
+1795,Utah Jazz,2010,39.0,46.0,Guard
+1796,Utah Jazz,2010,39.0,47.0,Forward
+1797,Utah Jazz,2011,36.0,25.0,Guard
+1798,Utah Jazz,2011,36.0,55.0,Forward-Center
+1799,Utah Jazz,2013,25.0,20.0,Guard
+1800,Utah Jazz,2014,38.0,9.0,Forward
+1801,Utah Jazz,2014,38.0,55.0,Forward
+1802,Utah Jazz,2015,40.0,3.0,Center
+1803,Utah Jazz,2015,40.0,12.0,Guard
+1804,Utah Jazz,2016,51.0,47.0,Guard
+1805,Utah Jazz,2017,48.0,21.0,Center
+1806,Utah Jazz,2017,48.0,46.0,Guard
+1807,Utah Jazz,2018,50.0,61.0,Nothing
+1808,Utah Jazz,2019,44.0,61.0,Nothing
+1809,Utah Jazz,2020,52.0,55.0,Guard
+1810,Utah Jazz,2020,52.0,60.0,Guard
+1811,Utah Jazz,2021,49.0,24.0,Forward
+1812,Utah Jazz,2021,49.0,42.0,Center-Forward
+1813,Utah Jazz,2021,49.0,55.0,Guard
+1814,Utah Jazz,2022,37.0,21.0,Guard
+1815,Utah Jazz,2022,37.0,52.0,Forward
+1816,Utah Jazz,2023,,23.0,Forward
+1817,Utah Jazz,2023,,53.0,Guard
+1818,Utah Jazz,2024,,27.0,Center-Forward
+1819,Utah Jazz,2024,,38.0,Guard
+1820,Utah Jazz,2025,,30.0,Forward-Center
+1821,Vancouver Grizzlies,1995,15.0,61.0,Nothing
+1822,Vancouver Grizzlies,1996,14.0,61.0,Nothing
+1823,Vancouver Grizzlies,1997,19.0,61.0,Nothing
+1824,Vancouver Grizzlies,1998,8.0,61.0,Nothing
+1825,Vancouver Grizzlies,1999,22.0,6.0,Center
+1826,Vancouver Grizzlies,1999,22.0,36.0,Guard
+1827,Vancouver Grizzlies,2000,23.0,3.0,Forward
+1828,Vancouver Grizzlies,2000,23.0,22.0,Forward
+1829,Vancouver Grizzlies,2000,23.0,51.0,Guard
+1830,Vancouver Grizzlies,2001,,4.0,Guard
+1831,Vancouver Grizzlies,2002,,2.0,Guard
+1832,Vancouver Grizzlies,2002,,56.0,Forward
+1833,Vancouver Grizzlies,2003,,2.0,Guard
+1834,Vancouver Grizzlies,2003,,37.0,Center
+1835,Vancouver Grizzlies,2004,,2.0,Forward-Center
+1836,Washington Bullets,1989,31.0,12.0,Guard
+1837,Washington Bullets,1989,31.0,31.0,Center
+1838,Washington Bullets,1990,30.0,12.0,Forward
+1839,Washington Bullets,1990,30.0,21.0,Guard
+1840,Washington Bullets,1990,30.0,58.0,Guard
+1841,Washington Bullets,1991,25.0,12.0,Guard
+1842,Washington Bullets,1991,25.0,36.0,Guard
+1843,Washington Bullets,1992,22.0,12.0,Forward
+1844,Washington Bullets,1992,22.0,36.0,Guard
+1845,Washington Bullets,1993,24.0,9.0,Forward
+1846,Washington Bullets,1993,24.0,39.0,Center
+1847,Washington Bullets,1993,24.0,41.0,Forward
+1848,Washington Bullets,1994,21.0,35.0,Center
+1849,Washington Bullets,1994,21.0,37.0,Guard
+1850,Washington Bullets,1995,39.0,19.0,Forward
+1851,Washington Bullets,1996,44.0,6.0,Forward
+1852,Washington Bullets,1997,,6.0,Guard-Forward
+1853,Washington Bullets,1997,,30.0,Center
+1854,Washington Bullets,1998,,5.0,Forward
+1855,Washington Bullets,1998,,32.0,Center
+1856,Washington Bullets,1999,,4.0,Forward-Center
+1857,Washington Bullets,1999,,32.0,Guard
+1858,Washington Wizards,1997,42.0,61.0,Nothing
+1859,Washington Wizards,1998,18.0,61.0,Nothing
+1860,Washington Wizards,1999,29.0,61.0,Nothing
+1861,Washington Wizards,2000,19.0,61.0,Nothing
+1862,Washington Wizards,2001,37.0,45.0,Guard
+1863,Washington Wizards,2001,37.0,48.0,Center
+1864,Washington Wizards,2002,37.0,43.0,Center-Forward
+1865,Washington Wizards,2003,25.0,35.0,Center
+1866,Washington Wizards,2004,45.0,35.0,Forward
+1867,Washington Wizards,2005,42.0,1.0,Center
+1868,Washington Wizards,2006,41.0,11.0,Forward
+1869,Washington Wizards,2007,43.0,10.0,Forward
+1870,Washington Wizards,2007,43.0,38.0,Guard
+1871,Washington Wizards,2008,19.0,5.0,Guard
+1872,Washington Wizards,2008,19.0,32.0,Center
+1873,Washington Wizards,2009,26.0,49.0,Center-Forward
+1874,Washington Wizards,2010,23.0,61.0,Nothing
+1875,Washington Wizards,2011,20.0,16.0,Guard-Forward
+1876,Washington Wizards,2011,20.0,47.0,Forward
+1877,Washington Wizards,2012,,47.0,Forward
+1878,Washington Wizards,2013,44.0,32.0,Guard
+1879,Washington Wizards,2014,46.0,1.0,Guard
+1880,Washington Wizards,2014,46.0,30.0,Forward
+1881,Washington Wizards,2014,46.0,35.0,Forward
+1882,Washington Wizards,2015,41.0,6.0,Forward
+1883,Washington Wizards,2015,41.0,18.0,Forward
+1884,Washington Wizards,2015,41.0,34.0,Guard
+1885,Washington Wizards,2016,49.0,3.0,Guard
+1886,Washington Wizards,2016,49.0,32.0,Guard
+1887,Washington Wizards,2017,43.0,3.0,Forward
+1888,Washington Wizards,2017,43.0,38.0,Guard
+1889,Washington Wizards,2018,32.0,61.0,Nothing
+1890,Washington Wizards,2019,25.0,61.0,Nothing
+1891,Washington Wizards,2020,34.0,61.0,Nothing
+1892,Washington Wizards,2021,35.0,61.0,Nothing
+1893,Washington Wizards,2022,35.0,15.0,Guard-Forward
+1894,Washington Wizards,2023,,9.0,Forward
+1895,Washington Wizards,2024,,37.0,Guard
+1896,Washington Wizards,2025,,15.0,Forward
+1897,Washington Wizards,2026,,10.0,Guard
+1898,Washington Wizards,2026,,10.0,Guard
