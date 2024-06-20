@@ -1,0 +1,657 @@
+index;team_name_home;season_id;wl_home;total_home;total_away;total_victoire
+1;Atlanta Hawks;2000;W;18;7;25
+2;Atlanta Hawks;2001;W;23;10;33
+4;Atlanta Hawks;2002;W;26;9;35
+7;Atlanta Hawks;2003;W;18;10;28
+9;Atlanta Hawks;2004;W;9;4;13
+11;Atlanta Hawks;2005;W;18;8;26
+13;Atlanta Hawks;2006;W;18;12;30
+14;Atlanta Hawks;2007;W;25;12;37
+16;Atlanta Hawks;2008;W;31;16;47
+18;Atlanta Hawks;2009;W;34;19;53
+20;Atlanta Hawks;2010;W;24;20;44
+22;Atlanta Hawks;2011;W;23;17;40
+24;Atlanta Hawks;2013;W;24;14;38
+26;Atlanta Hawks;2014;W;35;25;60
+28;Atlanta Hawks;2015;W;27;21;48
+30;Atlanta Hawks;2016;W;23;20;43
+33;Atlanta Hawks;2017;W;16;8;24
+35;Atlanta Hawks;2018;W;17;12;29
+37;Atlanta Hawks;2019;W;14;6;20
+38;Atlanta Hawks;2020;W;25;16;41
+40;Atlanta Hawks;2021;W;27;16;43
+42;Atlanta Hawks;2022;W;24;17;41
+45;Boston Celtics;2000;W;20;16;36
+46;Boston Celtics;2001;W;27;22;49
+48;Boston Celtics;2002;W;25;19;44
+51;Boston Celtics;2003;W;19;17;36
+52;Boston Celtics;2004;W;27;18;45
+54;Boston Celtics;2005;W;21;12;33
+57;Boston Celtics;2006;W;12;12;24
+58;Boston Celtics;2007;W;35;31;66
+60;Boston Celtics;2008;W;35;27;62
+62;Boston Celtics;2009;W;24;26;50
+64;Boston Celtics;2010;W;33;23;56
+66;Boston Celtics;2011;W;24;15;39
+69;Boston Celtics;2013;W;16;9;25
+70;Boston Celtics;2014;W;21;19;40
+72;Boston Celtics;2015;W;28;20;48
+74;Boston Celtics;2016;W;30;23;53
+76;Boston Celtics;2017;W;27;28;55
+78;Boston Celtics;2018;W;28;21;49
+80;Boston Celtics;2019;W;26;22;48
+82;Boston Celtics;2020;W;21;15;36
+84;Boston Celtics;2021;W;28;23;51
+86;Boston Celtics;2022;W;32;25;57
+88;Brooklyn Nets;2013;W;28;16;44
+91;Brooklyn Nets;2014;W;19;19;38
+93;Brooklyn Nets;2015;W;14;7;21
+95;Brooklyn Nets;2016;W;13;7;20
+97;Brooklyn Nets;2017;W;15;13;28
+98;Brooklyn Nets;2018;W;23;19;42
+100;Brooklyn Nets;2019;W;20;15;35
+102;Brooklyn Nets;2020;W;28;20;48
+105;Brooklyn Nets;2021;W;20;24;44
+106;Brooklyn Nets;2022;W;23;22;45
+109;Charlotte Bobcats;2004;W;14;4;18
+111;Charlotte Bobcats;2005;W;17;9;26
+113;Charlotte Bobcats;2006;W;20;13;33
+114;Charlotte Bobcats;2007;W;21;11;32
+116;Charlotte Bobcats;2008;W;23;12;35
+118;Charlotte Bobcats;2009;W;31;13;44
+120;Charlotte Bobcats;2010;W;21;13;34
+123;Charlotte Bobcats;2011;W;4;3;7
+124;Charlotte Bobcats;2013;W;25;18;43
+126;Charlotte Hornets;2000;W;28;18;46
+128;Charlotte Hornets;2001;W;21;23;44
+131;Charlotte Hornets;2014;W;19;14;33
+132;Charlotte Hornets;2015;W;30;18;48
+134;Charlotte Hornets;2016;W;22;14;36
+136;Charlotte Hornets;2017;W;21;15;36
+138;Charlotte Hornets;2018;W;25;14;39
+141;Charlotte Hornets;2019;W;10;13;23
+143;Charlotte Hornets;2020;W;18;15;33
+144;Charlotte Hornets;2021;W;22;21;43
+147;Charlotte Hornets;2022;W;13;14;27
+149;Chicago Bulls;2000;W;10;5;15
+151;Chicago Bulls;2001;W;14;7;21
+152;Chicago Bulls;2002;W;27;3;30
+155;Chicago Bulls;2003;W;14;9;23
+156;Chicago Bulls;2004;W;27;20;47
+158;Chicago Bulls;2005;W;21;20;41
+160;Chicago Bulls;2006;W;31;18;49
+163;Chicago Bulls;2007;W;20;13;33
+164;Chicago Bulls;2008;W;28;13;41
+166;Chicago Bulls;2009;W;24;17;41
+168;Chicago Bulls;2010;W;36;26;62
+170;Chicago Bulls;2011;W;26;24;50
+172;Chicago Bulls;2013;W;27;21;48
+174;Chicago Bulls;2014;W;27;23;50
+176;Chicago Bulls;2015;W;26;16;42
+178;Chicago Bulls;2016;W;25;16;41
+181;Chicago Bulls;2017;W;17;10;27
+183;Chicago Bulls;2018;W;9;13;22
+185;Chicago Bulls;2019;W;14;8;22
+187;Chicago Bulls;2020;W;15;16;31
+188;Chicago Bulls;2021;W;27;19;46
+190;Chicago Bulls;2022;W;22;18;40
+193;Cleveland Cavaliers;2000;W;20;10;30
+195;Cleveland Cavaliers;2001;W;20;9;29
+197;Cleveland Cavaliers;2002;W;14;3;17
+198;Cleveland Cavaliers;2003;W;23;12;35
+200;Cleveland Cavaliers;2004;W;29;13;42
+202;Cleveland Cavaliers;2005;W;31;19;50
+204;Cleveland Cavaliers;2006;W;30;20;50
+206;Cleveland Cavaliers;2007;W;27;18;45
+208;Cleveland Cavaliers;2008;W;39;27;66
+210;Cleveland Cavaliers;2009;W;35;26;61
+213;Cleveland Cavaliers;2010;W;12;7;19
+215;Cleveland Cavaliers;2011;W;11;10;21
+217;Cleveland Cavaliers;2013;W;19;14;33
+218;Cleveland Cavaliers;2014;W;31;22;53
+220;Cleveland Cavaliers;2015;W;33;24;57
+222;Cleveland Cavaliers;2016;W;31;20;51
+224;Cleveland Cavaliers;2017;W;29;21;50
+227;Cleveland Cavaliers;2018;W;13;6;19
+229;Cleveland Cavaliers;2019;W;11;8;19
+231;Cleveland Cavaliers;2020;W;13;9;22
+232;Cleveland Cavaliers;2021;W;25;19;44
+234;Cleveland Cavaliers;2022;W;31;20;51
+236;Dallas Mavericks;2000;W;28;25;53
+238;Dallas Mavericks;2001;W;30;27;57
+240;Dallas Mavericks;2002;W;33;27;60
+242;Dallas Mavericks;2003;W;36;16;52
+244;Dallas Mavericks;2004;W;29;29;58
+246;Dallas Mavericks;2005;W;34;26;60
+248;Dallas Mavericks;2006;W;36;31;67
+250;Dallas Mavericks;2007;W;34;17;51
+252;Dallas Mavericks;2008;W;32;18;50
+254;Dallas Mavericks;2009;W;28;27;55
+256;Dallas Mavericks;2010;W;29;28;57
+258;Dallas Mavericks;2011;W;23;13;36
+260;Dallas Mavericks;2013;W;26;23;49
+262;Dallas Mavericks;2014;W;27;23;50
+264;Dallas Mavericks;2015;W;23;19;42
+266;Dallas Mavericks;2016;W;21;12;33
+269;Dallas Mavericks;2017;W;15;9;24
+270;Dallas Mavericks;2018;W;24;9;33
+272;Dallas Mavericks;2019;W;20;23;43
+274;Dallas Mavericks;2020;W;21;21;42
+276;Dallas Mavericks;2021;W;29;23;52
+278;Dallas Mavericks;2022;W;23;15;38
+280;Denver Nuggets;2000;W;29;11;40
+283;Denver Nuggets;2001;W;20;7;27
+285;Denver Nuggets;2002;W;13;4;17
+286;Denver Nuggets;2003;W;29;14;43
+288;Denver Nuggets;2004;W;31;18;49
+290;Denver Nuggets;2005;W;26;18;44
+292;Denver Nuggets;2006;W;23;22;45
+294;Denver Nuggets;2007;W;33;17;50
+296;Denver Nuggets;2008;W;33;21;54
+298;Denver Nuggets;2009;W;34;19;53
+300;Denver Nuggets;2010;W;33;17;50
+302;Denver Nuggets;2011;W;20;18;38
+304;Denver Nuggets;2013;W;22;14;36
+307;Denver Nuggets;2014;W;19;11;30
+309;Denver Nuggets;2015;W;18;15;33
+310;Denver Nuggets;2016;W;22;18;40
+312;Denver Nuggets;2017;W;31;15;46
+314;Denver Nuggets;2018;W;34;20;54
+316;Denver Nuggets;2019;W;26;20;46
+318;Denver Nuggets;2020;W;25;22;47
+320;Denver Nuggets;2021;W;23;25;48
+322;Denver Nuggets;2022;W;34;19;53
+325;Detroit Pistons;2000;W;18;14;32
+326;Detroit Pistons;2001;W;26;24;50
+328;Detroit Pistons;2002;W;30;20;50
+330;Detroit Pistons;2003;W;31;23;54
+332;Detroit Pistons;2004;W;32;22;54
+334;Detroit Pistons;2005;W;37;27;64
+336;Detroit Pistons;2006;W;26;27;53
+338;Detroit Pistons;2007;W;34;25;59
+340;Detroit Pistons;2008;W;21;18;39
+343;Detroit Pistons;2009;W;17;10;27
+344;Detroit Pistons;2010;W;21;9;30
+346;Detroit Pistons;2011;W;18;7;25
+349;Detroit Pistons;2013;W;17;12;29
+351;Detroit Pistons;2014;W;18;14;32
+352;Detroit Pistons;2015;W;26;18;44
+354;Detroit Pistons;2016;W;24;13;37
+356;Detroit Pistons;2017;W;25;14;39
+358;Detroit Pistons;2018;W;26;15;41
+361;Detroit Pistons;2019;W;11;9;20
+363;Detroit Pistons;2020;W;13;7;20
+365;Detroit Pistons;2021;W;13;10;23
+367;Detroit Pistons;2022;W;9;8;17
+369;Golden State Warriors;2000;W;11;6;17
+371;Golden State Warriors;2001;W;14;7;21
+372;Golden State Warriors;2002;W;24;14;38
+374;Golden State Warriors;2003;W;27;10;37
+377;Golden State Warriors;2004;W;20;14;34
+378;Golden State Warriors;2005;W;21;13;34
+380;Golden State Warriors;2006;W;30;12;42
+382;Golden State Warriors;2007;W;27;21;48
+384;Golden State Warriors;2008;W;21;8;29
+387;Golden State Warriors;2009;W;18;8;26
+388;Golden State Warriors;2010;W;26;10;36
+391;Golden State Warriors;2011;W;12;11;23
+392;Golden State Warriors;2013;W;27;24;51
+394;Golden State Warriors;2014;W;39;28;67
+396;Golden State Warriors;2015;W;39;34;73
+398;Golden State Warriors;2016;W;36;31;67
+400;Golden State Warriors;2017;W;29;29;58
+402;Golden State Warriors;2018;W;30;27;57
+405;Golden State Warriors;2019;W;8;7;15
+406;Golden State Warriors;2020;W;25;14;39
+408;Golden State Warriors;2021;W;31;22;53
+410;Golden State Warriors;2022;W;33;11;44
+412;Houston Rockets;2000;W;24;21;45
+415;Houston Rockets;2001;W;18;10;28
+416;Houston Rockets;2002;W;28;15;43
+418;Houston Rockets;2003;W;27;18;45
+420;Houston Rockets;2004;W;26;25;51
+423;Houston Rockets;2005;W;15;19;34
+424;Houston Rockets;2006;W;28;24;52
+426;Houston Rockets;2007;W;31;24;55
+428;Houston Rockets;2008;W;33;20;53
+430;Houston Rockets;2009;W;23;19;42
+432;Houston Rockets;2010;W;25;18;43
+434;Houston Rockets;2011;W;22;12;34
+436;Houston Rockets;2013;W;33;21;54
+438;Houston Rockets;2014;W;30;26;56
+440;Houston Rockets;2015;W;23;18;41
+442;Houston Rockets;2016;W;30;25;55
+444;Houston Rockets;2017;W;34;31;65
+446;Houston Rockets;2018;W;31;22;53
+448;Houston Rockets;2019;W;24;20;44
+451;Houston Rockets;2020;W;9;8;17
+453;Houston Rockets;2021;W;11;9;20
+455;Houston Rockets;2022;W;14;8;22
+456;Indiana Pacers;2000;W;26;15;41
+458;Indiana Pacers;2001;W;25;17;42
+460;Indiana Pacers;2002;W;32;16;48
+462;Indiana Pacers;2003;W;34;27;61
+464;Indiana Pacers;2004;W;25;19;44
+466;Indiana Pacers;2005;W;27;14;41
+468;Indiana Pacers;2006;W;22;13;35
+470;Indiana Pacers;2007;W;21;15;36
+472;Indiana Pacers;2008;W;25;11;36
+474;Indiana Pacers;2009;W;23;9;32
+476;Indiana Pacers;2010;W;24;13;37
+478;Indiana Pacers;2011;W;23;19;42
+480;Indiana Pacers;2013;W;35;21;56
+482;Indiana Pacers;2014;W;23;15;38
+484;Indiana Pacers;2015;W;26;19;45
+486;Indiana Pacers;2016;W;29;13;42
+488;Indiana Pacers;2017;W;27;21;48
+490;Indiana Pacers;2018;W;29;19;48
+492;Indiana Pacers;2019;W;25;20;45
+495;Indiana Pacers;2020;W;13;21;34
+497;Indiana Pacers;2021;W;16;9;25
+499;Indiana Pacers;2022;W;20;15;35
+500;LA Clippers;2015;W;29;24;53
+502;LA Clippers;2016;W;29;22;51
+504;LA Clippers;2017;W;22;20;42
+506;LA Clippers;2018;W;26;22;48
+508;LA Clippers;2019;W;27;22;49
+510;LA Clippers;2020;W;26;21;47
+512;LA Clippers;2021;W;25;17;42
+514;LA Clippers;2022;W;23;21;44
+516;Los Angeles Clippers;2000;W;22;9;31
+518;Los Angeles Clippers;2001;W;25;14;39
+521;Los Angeles Clippers;2002;W;16;11;27
+523;Los Angeles Clippers;2003;W;18;10;28
+524;Los Angeles Clippers;2004;W;27;10;37
+526;Los Angeles Clippers;2005;W;27;20;47
+528;Los Angeles Clippers;2006;W;25;15;40
+531;Los Angeles Clippers;2007;W;13;10;23
+533;Los Angeles Clippers;2008;W;11;8;19
+534;Los Angeles Clippers;2009;W;21;8;29
+536;Los Angeles Clippers;2010;W;23;9;32
+538;Los Angeles Clippers;2011;W;24;16;40
+540;Los Angeles Clippers;2013;W;34;23;57
+542;Los Angeles Clippers;2014;W;30;26;56
+544;Los Angeles Lakers;2000;W;31;25;56
+546;Los Angeles Lakers;2001;W;34;24;58
+548;Los Angeles Lakers;2002;W;31;19;50
+550;Los Angeles Lakers;2003;W;34;22;56
+552;Los Angeles Lakers;2004;W;22;12;34
+554;Los Angeles Lakers;2005;W;27;18;45
+556;Los Angeles Lakers;2006;W;25;17;42
+558;Los Angeles Lakers;2007;W;30;27;57
+560;Los Angeles Lakers;2008;W;36;29;65
+562;Los Angeles Lakers;2009;W;34;23;57
+564;Los Angeles Lakers;2010;W;30;27;57
+566;Los Angeles Lakers;2011;W;26;15;41
+569;Los Angeles Lakers;2013;W;14;13;27
+571;Los Angeles Lakers;2014;W;12;9;21
+573;Los Angeles Lakers;2015;W;12;5;17
+575;Los Angeles Lakers;2016;W;17;9;26
+577;Los Angeles Lakers;2017;W;20;15;35
+578;Los Angeles Lakers;2018;W;22;15;37
+580;Los Angeles Lakers;2019;W;25;27;52
+582;Los Angeles Lakers;2020;W;21;21;42
+584;Los Angeles Lakers;2021;W;21;12;33
+586;Los Angeles Lakers;2022;W;23;20;43
+589;Memphis Grizzlies;2001;W;15;8;23
+591;Memphis Grizzlies;2002;W;20;8;28
+592;Memphis Grizzlies;2003;W;31;19;50
+594;Memphis Grizzlies;2004;W;26;19;45
+596;Memphis Grizzlies;2005;W;30;19;49
+599;Memphis Grizzlies;2006;W;14;8;22
+601;Memphis Grizzlies;2007;W;14;8;22
+603;Memphis Grizzlies;2008;W;16;8;24
+604;Memphis Grizzlies;2009;W;23;17;40
+606;Memphis Grizzlies;2010;W;30;16;46
+608;Memphis Grizzlies;2011;W;26;15;41
+610;Memphis Grizzlies;2013;W;27;23;50
+612;Memphis Grizzlies;2014;W;31;24;55
+614;Memphis Grizzlies;2015;W;26;16;42
+616;Memphis Grizzlies;2016;W;24;19;43
+619;Memphis Grizzlies;2017;W;16;6;22
+620;Memphis Grizzlies;2018;W;21;12;33
+622;Memphis Grizzlies;2019;W;20;14;34
+625;Memphis Grizzlies;2020;W;18;20;38
+626;Memphis Grizzlies;2021;W;30;26;56
+628;Memphis Grizzlies;2022;W;35;16;51
+630;Miami Heat;2000;W;29;21;50
+633;Miami Heat;2001;W;18;18;36
+635;Miami Heat;2002;W;16;9;25
+636;Miami Heat;2003;W;29;13;42
+638;Miami Heat;2004;W;35;24;59
+640;Miami Heat;2005;W;31;21;52
+642;Miami Heat;2006;W;27;17;44
+645;Miami Heat;2007;W;9;6;15
+646;Miami Heat;2008;W;28;15;43
+648;Miami Heat;2009;W;24;23;47
+650;Miami Heat;2010;W;30;28;58
+652;Miami Heat;2011;W;28;18;46
+654;Miami Heat;2013;W;32;22;54
+657;Miami Heat;2014;W;20;17;37
+658;Miami Heat;2015;W;28;20;48
+660;Miami Heat;2016;W;23;18;41
+662;Miami Heat;2017;W;26;18;44
+665;Miami Heat;2018;W;19;20;39
+666;Miami Heat;2019;W;29;15;44
+668;Miami Heat;2020;W;21;19;40
+670;Miami Heat;2021;W;29;24;53
+672;Miami Heat;2022;W;27;17;44
+674;Milwaukee Bucks;2000;W;31;21;52
+676;Milwaukee Bucks;2001;W;25;16;41
+678;Milwaukee Bucks;2002;W;25;17;42
+680;Milwaukee Bucks;2003;W;27;14;41
+682;Milwaukee Bucks;2004;W;23;7;30
+684;Milwaukee Bucks;2005;W;25;15;40
+687;Milwaukee Bucks;2006;W;18;10;28
+689;Milwaukee Bucks;2007;W;19;7;26
+690;Milwaukee Bucks;2008;W;22;12;34
+692;Milwaukee Bucks;2009;W;28;18;46
+694;Milwaukee Bucks;2010;W;22;13;35
+696;Milwaukee Bucks;2011;W;17;14;31
+699;Milwaukee Bucks;2013;W;10;5;15
+700;Milwaukee Bucks;2014;W;23;18;41
+702;Milwaukee Bucks;2015;W;23;10;33
+704;Milwaukee Bucks;2016;W;23;19;42
+706;Milwaukee Bucks;2017;W;25;19;44
+708;Milwaukee Bucks;2018;W;33;27;60
+710;Milwaukee Bucks;2019;W;30;26;56
+712;Milwaukee Bucks;2020;W;26;20;46
+714;Milwaukee Bucks;2021;W;27;24;51
+716;Milwaukee Bucks;2022;W;32;26;58
+718;Minnesota Timberwolves;2000;W;30;17;47
+720;Minnesota Timberwolves;2001;W;29;21;50
+722;Minnesota Timberwolves;2002;W;33;18;51
+724;Minnesota Timberwolves;2003;W;31;27;58
+726;Minnesota Timberwolves;2004;W;24;20;44
+728;Minnesota Timberwolves;2005;W;24;9;33
+731;Minnesota Timberwolves;2006;W;20;12;32
+733;Minnesota Timberwolves;2007;W;15;7;22
+735;Minnesota Timberwolves;2008;W;11;13;24
+737;Minnesota Timberwolves;2009;W;10;5;15
+739;Minnesota Timberwolves;2010;W;12;5;17
+741;Minnesota Timberwolves;2011;W;13;13;26
+742;Minnesota Timberwolves;2013;W;24;16;40
+745;Minnesota Timberwolves;2014;W;9;7;16
+747;Minnesota Timberwolves;2015;W;14;15;29
+749;Minnesota Timberwolves;2016;W;20;11;31
+750;Minnesota Timberwolves;2017;W;30;17;47
+752;Minnesota Timberwolves;2018;W;25;11;36
+755;Minnesota Timberwolves;2019;W;8;11;19
+757;Minnesota Timberwolves;2020;W;13;10;23
+758;Minnesota Timberwolves;2021;W;26;20;46
+760;Minnesota Timberwolves;2022;W;22;20;42
+763;New Jersey Nets;2000;W;18;8;26
+764;New Jersey Nets;2001;W;33;19;52
+766;New Jersey Nets;2002;W;33;16;49
+768;New Jersey Nets;2003;W;28;19;47
+770;New Jersey Nets;2004;W;24;18;42
+772;New Jersey Nets;2005;W;29;20;49
+774;New Jersey Nets;2006;W;24;17;41
+776;New Jersey Nets;2007;W;21;13;34
+779;New Jersey Nets;2008;W;19;15;34
+781;New Jersey Nets;2009;W;8;4;12
+783;New Jersey Nets;2010;W;19;5;24
+785;New Jersey Nets;2011;W;9;13;22
+786;New Orleans Hornets;2002;W;29;18;47
+788;New Orleans Hornets;2003;W;25;16;41
+791;New Orleans Hornets;2004;W;11;7;18
+792;New Orleans Hornets;2007;W;30;26;56
+794;New Orleans Hornets;2008;W;28;21;49
+796;New Orleans Hornets;2009;W;24;13;37
+798;New Orleans Hornets;2010;W;28;18;46
+801;New Orleans Hornets;2011;W;11;10;21
+802;New Orleans Pelicans;2013;W;22;12;34
+804;New Orleans Pelicans;2014;W;28;17;45
+806;New Orleans Pelicans;2015;W;21;9;30
+808;New Orleans Pelicans;2016;W;21;13;34
+810;New Orleans Pelicans;2017;W;24;24;48
+813;New Orleans Pelicans;2018;W;19;14;33
+815;New Orleans Pelicans;2019;W;15;15;30
+817;New Orleans Pelicans;2020;W;18;13;31
+819;New Orleans Pelicans;2021;W;19;17;36
+820;New Orleans Pelicans;2022;W;27;15;42
+822;New Orleans/Oklahoma City Hornets;2005;W;24;14;38
+824;New Orleans/Oklahoma City Hornets;2006;W;24;15;39
+826;New York Knicks;2000;W;30;18;48
+829;New York Knicks;2001;W;19;11;30
+830;New York Knicks;2002;W;24;13;37
+832;New York Knicks;2003;W;23;16;39
+834;New York Knicks;2004;W;22;11;33
+837;New York Knicks;2005;W;15;8;23
+839;New York Knicks;2006;W;19;14;33
+841;New York Knicks;2007;W;15;8;23
+843;New York Knicks;2008;W;20;12;32
+845;New York Knicks;2009;W;18;11;29
+846;New York Knicks;2010;W;23;19;42
+848;New York Knicks;2011;W;22;14;36
+851;New York Knicks;2013;W;19;18;37
+853;New York Knicks;2014;W;10;7;17
+855;New York Knicks;2015;W;18;14;32
+857;New York Knicks;2016;W;19;12;31
+859;New York Knicks;2017;W;19;10;29
+861;New York Knicks;2018;W;9;8;17
+863;New York Knicks;2019;W;11;10;21
+864;New York Knicks;2020;W;25;16;41
+867;New York Knicks;2021;W;17;20;37
+868;New York Knicks;2022;W;23;24;47
+871;Oklahoma City Thunder;2008;W;15;8;23
+872;Oklahoma City Thunder;2009;W;27;23;50
+874;Oklahoma City Thunder;2010;W;30;25;55
+876;Oklahoma City Thunder;2011;W;26;21;47
+878;Oklahoma City Thunder;2013;W;34;25;59
+880;Oklahoma City Thunder;2014;W;29;16;45
+882;Oklahoma City Thunder;2015;W;32;23;55
+884;Oklahoma City Thunder;2016;W;28;19;47
+886;Oklahoma City Thunder;2017;W;27;21;48
+888;Oklahoma City Thunder;2018;W;27;22;49
+890;Oklahoma City Thunder;2019;W;23;21;44
+893;Oklahoma City Thunder;2020;W;10;12;22
+895;Oklahoma City Thunder;2021;W;12;12;24
+896;Oklahoma City Thunder;2022;W;24;16;40
+898;Orlando Magic;2000;W;26;17;43
+900;Orlando Magic;2001;W;27;17;44
+902;Orlando Magic;2002;W;26;16;42
+905;Orlando Magic;2003;W;11;10;21
+906;Orlando Magic;2004;W;24;12;36
+908;Orlando Magic;2005;W;26;10;36
+910;Orlando Magic;2006;W;25;15;40
+912;Orlando Magic;2007;W;25;27;52
+914;Orlando Magic;2008;W;32;27;59
+916;Orlando Magic;2009;W;34;25;59
+918;Orlando Magic;2010;W;29;23;52
+920;Orlando Magic;2011;W;21;16;37
+923;Orlando Magic;2013;W;19;4;23
+925;Orlando Magic;2014;W;13;12;25
+926;Orlando Magic;2015;W;23;12;35
+929;Orlando Magic;2016;W;16;13;29
+931;Orlando Magic;2017;W;17;8;25
+932;Orlando Magic;2018;W;25;17;42
+934;Orlando Magic;2019;W;18;15;33
+937;Orlando Magic;2020;W;11;10;21
+939;Orlando Magic;2021;W;12;10;22
+941;Orlando Magic;2022;W;20;14;34
+942;Philadelphia 76ers;2000;W;29;27;56
+944;Philadelphia 76ers;2001;W;22;21;43
+946;Philadelphia 76ers;2002;W;25;23;48
+948;Philadelphia 76ers;2003;W;21;12;33
+950;Philadelphia 76ers;2004;W;25;18;43
+952;Philadelphia 76ers;2005;W;23;15;38
+954;Philadelphia 76ers;2006;W;21;14;35
+956;Philadelphia 76ers;2007;W;22;18;40
+958;Philadelphia 76ers;2008;W;24;17;41
+961;Philadelphia 76ers;2009;W;12;15;27
+962;Philadelphia 76ers;2010;W;26;15;41
+964;Philadelphia 76ers;2011;W;19;16;35
+967;Philadelphia 76ers;2013;W;10;9;19
+969;Philadelphia 76ers;2014;W;12;6;18
+971;Philadelphia 76ers;2015;W;7;3;10
+973;Philadelphia 76ers;2016;W;17;11;28
+974;Philadelphia 76ers;2017;W;30;22;52
+976;Philadelphia 76ers;2018;W;31;20;51
+978;Philadelphia 76ers;2019;W;31;12;43
+980;Philadelphia 76ers;2020;W;29;20;49
+982;Philadelphia 76ers;2021;W;24;27;51
+984;Philadelphia 76ers;2022;W;29;25;54
+986;Phoenix Suns;2000;W;31;20;51
+988;Phoenix Suns;2001;W;23;13;36
+990;Phoenix Suns;2002;W;30;14;44
+993;Phoenix Suns;2003;W;18;11;29
+994;Phoenix Suns;2004;W;31;31;62
+996;Phoenix Suns;2005;W;31;23;54
+998;Phoenix Suns;2006;W;33;28;61
+1000;Phoenix Suns;2007;W;30;25;55
+1002;Phoenix Suns;2008;W;28;18;46
+1004;Phoenix Suns;2009;W;32;22;54
+1006;Phoenix Suns;2010;W;23;17;40
+1008;Phoenix Suns;2011;W;19;14;33
+1010;Phoenix Suns;2013;W;26;22;48
+1012;Phoenix Suns;2014;W;22;17;39
+1015;Phoenix Suns;2015;W;14;9;23
+1017;Phoenix Suns;2016;W;15;9;24
+1019;Phoenix Suns;2017;W;10;11;21
+1021;Phoenix Suns;2018;W;12;7;19
+1023;Phoenix Suns;2019;W;17;17;34
+1024;Phoenix Suns;2020;W;27;24;51
+1026;Phoenix Suns;2021;W;32;32;64
+1028;Phoenix Suns;2022;W;28;17;45
+1030;Portland Trail Blazers;2000;W;28;22;50
+1032;Portland Trail Blazers;2001;W;30;19;49
+1034;Portland Trail Blazers;2002;W;27;23;50
+1036;Portland Trail Blazers;2003;W;25;16;41
+1039;Portland Trail Blazers;2004;W;18;9;27
+1041;Portland Trail Blazers;2005;W;15;6;21
+1043;Portland Trail Blazers;2006;W;18;14;32
+1044;Portland Trail Blazers;2007;W;28;13;41
+1046;Portland Trail Blazers;2008;W;34;20;54
+1048;Portland Trail Blazers;2009;W;26;24;50
+1050;Portland Trail Blazers;2010;W;30;18;48
+1052;Portland Trail Blazers;2011;W;20;8;28
+1054;Portland Trail Blazers;2013;W;31;23;54
+1056;Portland Trail Blazers;2014;W;32;19;51
+1058;Portland Trail Blazers;2015;W;28;16;44
+1060;Portland Trail Blazers;2016;W;25;16;41
+1062;Portland Trail Blazers;2017;W;28;21;49
+1064;Portland Trail Blazers;2018;W;32;21;53
+1066;Portland Trail Blazers;2019;W;21;14;35
+1068;Portland Trail Blazers;2020;W;20;22;42
+1071;Portland Trail Blazers;2021;W;17;10;27
+1073;Portland Trail Blazers;2022;W;17;16;33
+1074;Sacramento Kings;2000;W;33;22;55
+1076;Sacramento Kings;2001;W;36;25;61
+1078;Sacramento Kings;2002;W;35;24;59
+1080;Sacramento Kings;2003;W;34;21;55
+1082;Sacramento Kings;2004;W;30;20;50
+1084;Sacramento Kings;2005;W;27;17;44
+1087;Sacramento Kings;2006;W;20;13;33
+1088;Sacramento Kings;2007;W;26;12;38
+1091;Sacramento Kings;2008;W;11;6;17
+1093;Sacramento Kings;2009;W;18;7;25
+1095;Sacramento Kings;2010;W;11;13;24
+1097;Sacramento Kings;2011;W;16;6;22
+1099;Sacramento Kings;2013;W;17;11;28
+1101;Sacramento Kings;2014;W;18;11;29
+1103;Sacramento Kings;2015;W;18;15;33
+1105;Sacramento Kings;2016;W;17;15;32
+1107;Sacramento Kings;2017;W;14;13;27
+1108;Sacramento Kings;2018;W;24;15;39
+1111;Sacramento Kings;2019;W;16;15;31
+1113;Sacramento Kings;2020;W;16;15;31
+1115;Sacramento Kings;2021;W;16;14;30
+1116;Sacramento Kings;2022;W;23;25;48
+1118;San Antonio Spurs;2000;W;33;25;58
+1120;San Antonio Spurs;2001;W;32;26;58
+1122;San Antonio Spurs;2002;W;33;27;60
+1124;San Antonio Spurs;2003;W;33;24;57
+1126;San Antonio Spurs;2004;W;38;21;59
+1128;San Antonio Spurs;2005;W;34;29;63
+1130;San Antonio Spurs;2006;W;31;27;58
+1132;San Antonio Spurs;2007;W;34;22;56
+1134;San Antonio Spurs;2008;W;28;26;54
+1136;San Antonio Spurs;2009;W;29;21;50
+1138;San Antonio Spurs;2010;W;36;25;61
+1140;San Antonio Spurs;2011;W;28;22;50
+1142;San Antonio Spurs;2013;W;32;30;62
+1144;San Antonio Spurs;2014;W;33;22;55
+1146;San Antonio Spurs;2015;W;40;27;67
+1148;San Antonio Spurs;2016;W;31;30;61
+1150;San Antonio Spurs;2017;W;33;14;47
+1152;San Antonio Spurs;2018;W;32;16;48
+1154;San Antonio Spurs;2019;W;19;13;32
+1157;San Antonio Spurs;2020;W;14;19;33
+1159;San Antonio Spurs;2021;W;16;18;34
+1161;San Antonio Spurs;2022;W;14;8;22
+1162;Seattle SuperSonics;2000;W;26;18;44
+1164;Seattle SuperSonics;2001;W;26;19;45
+1166;Seattle SuperSonics;2002;W;25;15;40
+1168;Seattle SuperSonics;2003;W;21;16;37
+1170;Seattle SuperSonics;2004;W;26;26;52
+1172;Seattle SuperSonics;2005;W;22;13;35
+1175;Seattle SuperSonics;2006;W;20;11;31
+1177;Seattle SuperSonics;2007;W;13;7;20
+1178;Toronto Raptors;2000;W;27;20;47
+1180;Toronto Raptors;2001;W;24;18;42
+1183;Toronto Raptors;2002;W;15;9;24
+1185;Toronto Raptors;2003;W;18;15;33
+1186;Toronto Raptors;2004;W;22;11;33
+1189;Toronto Raptors;2005;W;15;12;27
+1190;Toronto Raptors;2006;W;30;17;47
+1192;Toronto Raptors;2007;W;25;16;41
+1195;Toronto Raptors;2008;W;18;15;33
+1196;Toronto Raptors;2009;W;25;15;40
+1199;Toronto Raptors;2010;W;16;6;22
+1201;Toronto Raptors;2011;W;13;10;23
+1202;Toronto Raptors;2013;W;26;22;48
+1204;Toronto Raptors;2014;W;27;22;49
+1206;Toronto Raptors;2015;W;32;24;56
+1208;Toronto Raptors;2016;W;28;23;51
+1210;Toronto Raptors;2017;W;34;25;59
+1212;Toronto Raptors;2018;W;32;26;58
+1214;Toronto Raptors;2019;W;26;27;53
+1217;Toronto Raptors;2020;W;16;11;27
+1218;Toronto Raptors;2021;W;24;24;48
+1220;Toronto Raptors;2022;W;27;14;41
+1222;Utah Jazz;2000;W;28;25;53
+1224;Utah Jazz;2001;W;25;19;44
+1226;Utah Jazz;2002;W;29;18;47
+1228;Utah Jazz;2003;W;28;14;42
+1231;Utah Jazz;2004;W;18;8;26
+1232;Utah Jazz;2005;W;22;19;41
+1234;Utah Jazz;2006;W;31;20;51
+1236;Utah Jazz;2007;W;37;17;54
+1238;Utah Jazz;2008;W;33;15;48
+1240;Utah Jazz;2009;W;32;21;53
+1242;Utah Jazz;2010;W;21;18;39
+1244;Utah Jazz;2011;W;25;11;36
+1247;Utah Jazz;2013;W;16;9;25
+1248;Utah Jazz;2014;W;21;17;38
+1250;Utah Jazz;2015;W;24;16;40
+1252;Utah Jazz;2016;W;29;22;51
+1254;Utah Jazz;2017;W;28;20;48
+1256;Utah Jazz;2018;W;29;21;50
+1258;Utah Jazz;2019;W;23;21;44
+1260;Utah Jazz;2020;W;31;21;52
+1262;Utah Jazz;2021;W;29;20;49
+1264;Utah Jazz;2022;W;23;14;37
+1267;Vancouver Grizzlies;2000;W;15;8;23
+1269;Washington Wizards;2000;W;12;7;19
+1270;Washington Wizards;2001;W;22;15;37
+1272;Washington Wizards;2002;W;23;14;37
+1275;Washington Wizards;2003;W;17;8;25
+1276;Washington Wizards;2004;W;29;16;45
+1278;Washington Wizards;2005;W;27;15;42
+1280;Washington Wizards;2006;W;26;15;41
+1282;Washington Wizards;2007;W;25;18;43
+1285;Washington Wizards;2008;W;13;6;19
+1287;Washington Wizards;2009;W;15;11;26
+1289;Washington Wizards;2010;W;20;3;23
+1291;Washington Wizards;2011;W;11;9;20
+1292;Washington Wizards;2013;W;22;22;44
+1294;Washington Wizards;2014;W;29;17;46
+1296;Washington Wizards;2015;W;22;19;41
+1298;Washington Wizards;2016;W;30;19;49
+1300;Washington Wizards;2017;W;23;20;43
+1302;Washington Wizards;2018;W;22;10;32
+1305;Washington Wizards;2019;W;16;9;25
+1306;Washington Wizards;2020;W;19;15;34
+1308;Washington Wizards;2021;W;21;14;35
+1311;Washington Wizards;2022;W;19;16;35
